@@ -1,0 +1,27 @@
+---
+import { Image } from 'astro:assets';
+import logo from '/public/images/logo.png';
+
+---
+
+
+<a href="/">
+    <Image
+        src={logo} 
+        alt="PsicoExpertos"
+        width={250}
+        height={100}
+        format="png"
+        quality={100}
+        loading="eager"
+        decoding="sync"
+        class="logo"    
+        
+        />
+  </a>
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+
+@import '@fontsource-variable/inter/wght.css';
+
+@theme {
+  --color-primary: #0060ac;
+
+  --color-secondary: #e3f2fd;
+
+  --color-tertiary: #c28000;
+
+  --color-neutral: #4a5568;
+
+  --font-Inter: 'Inter Variable', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply font-Inter;
+    @apply py-8 px-12;
+  }
+}
