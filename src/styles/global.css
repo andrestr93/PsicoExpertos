@@ -3,7 +3,7 @@
 @import '@fontsource-variable/inter/wght.css';
 
 @theme {
-  --color-primary: #0060ac;
+  --color-primary: #a4c9ff;
 
   --color-secondary: #e3f2fd;
 
@@ -15,8 +15,10 @@
 }
 
 @layer base {
+  * {
+    @apply w-full;
+  }
   body {
     @apply font-Inter;
-    @apply py-8 px-12;
   }
 }
