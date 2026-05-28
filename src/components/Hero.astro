@@ -1,4 +1,22 @@
-<div class="bg-secondary px-11 w-full py-12">
-    <h1 class="font-bold text-3xl mt-10">Encuentra tu experto  adecuado cerca de ti </h1>
-    <h2 class="mt-7 font-semibold">Conectamos a personas con profesionales de la salud mental titulados y verificados en toda España. Tu bienestar comienza con la elección correcta</h2>
+---
+import Authority from "./Authority.astro";
+import Search from "./Search.astro";
+
+
+---
+<div class=" gap-8 flex bg-container  flex-col px-8 w-full py-12">
+    <div>
+        <h1 class="font-bold text-3xl mt-10">Encuentra tu experto  adecuado cerca de ti </h1>
+        <h2 class="mt-7 font-semibold">Conectamos a personas con profesionales de la salud mental titulados y verificados en toda España. Tu bienestar comienza con la elección correcta</h2>
+    </div>
+    <div class="border rounded-xl bg-white  border-border gap-6 pt-5 pb-2  flex flex-col  ">
+        <Search/>
+
+    </div>
+
+      <div class=" text-xs ">
+       <p class="flex flex-wrap items-center gap-2 font-semibold">Busquedas Populares: <span class="bg-blue-200 px-3 border rounded-xl border-transparent font-semibold text-cta ">Terapia Online</span><span class="bg-blue-200 px-3 border rounded-xl border-transparent font-semibold text-cta ">Depresión</span><span class="bg-blue-200 px-3 border rounded-xl border-transparent font-semibold text-cta  ">Autoestima</span> </p> 
+    </div>
+
 </div>
+<Authority/>

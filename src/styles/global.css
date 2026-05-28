@@ -3,10 +3,17 @@
 @import '@fontsource-variable/inter/wght.css';
 
 @theme {
-  --color-primary: #a4c9ff;
+  --color-primary: #4a90e2;
 
-  --color-secondary: #e3f2fd;
+  --color-cta: #0062a3;
 
+  --color-secondary: #f9f9ff;
+
+  --color-container: #d4e3ff;
+
+  --color-border: #72777f;
+
+  --color-surface-container: #f0f3ff;
   --color-tertiary: #c28000;
 
   --color-neutral: #4a5568;
@@ -15,10 +22,7 @@
 }
 
 @layer base {
-  * {
-    @apply w-full;
-  }
   body {
-    @apply font-Inter;
+    @apply font-Inter bg-secondary;
   }
 }
