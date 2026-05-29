@@ -1,5 +1,8 @@
 ---
 import Authority from "./Authority.astro";
+import ExploreLocation from "./ExploreLocation.astro";
+import FeaturedProfessionals from "./FeaturedProfessionals.astro";
+import PopularSearch from "./PopularSearch.astro";
 import Search from "./Search.astro";
 
 
@@ -14,9 +17,13 @@ import Search from "./Search.astro";
 
     </div>
 
-      <div class=" text-xs ">
-       <p class="flex flex-wrap items-center gap-2 font-semibold">Busquedas Populares: <span class="bg-blue-200 px-3 border rounded-xl border-transparent font-semibold text-cta ">Terapia Online</span><span class="bg-blue-200 px-3 border rounded-xl border-transparent font-semibold text-cta ">Depresión</span><span class="bg-blue-200 px-3 border rounded-xl border-transparent font-semibold text-cta  ">Autoestima</span> </p> 
-    </div>
+    <PopularSearch/>
+
 
 </div>
 <Authority/>
+<section class="flex flex-col gap-20">
+    <ExploreLocation/>
+    <FeaturedProfessionals/>
+
+</section>
