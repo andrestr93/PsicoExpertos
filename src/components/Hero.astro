@@ -7,23 +7,22 @@ import Search from "./Search.astro";
 
 
 ---
-<div class=" gap-8 flex bg-container  flex-col px-8 w-full py-12">
-    <div>
-        <h1 class="font-bold text-3xl mt-10">Encuentra tu experto  adecuado cerca de ti </h1>
-        <h2 class="mt-7 font-semibold">Conectamos a personas con profesionales de la salud mental titulados y verificados en toda España. Tu bienestar comienza con la elección correcta</h2>
-    </div>
-    <div class="border rounded-xl bg-white  border-border gap-6 pt-5 pb-2  flex flex-col  ">
-        <Search/>
+<section aria-label="Hero principal" class="gap-8 flex bg-container flex-col px-8 w-full py-12">
+  
+  <div>
+    <h1 class="font-bold text-3xl mt-10">
+      Encuentra tu experto adecuado cerca de ti
+    </h1>
+    <p class="mt-7 font-semibold">
+      Conectamos a personas con profesionales de la salud mental titulados 
+      y verificados en toda España. Tu bienestar comienza con la elección correcta.
+    </p>
+  </div>
 
-    </div>
-
-    <PopularSearch/>
-
-
-</div>
-<Authority/>
-<section class="flex flex-col gap-20">
-    <ExploreLocation/>
-    <FeaturedProfessionals/>
+  <Search />
+  <PopularSearch />
+  <Authority />
+  <ExploreLocation />
+  <FeaturedProfessionals />
 
 </section>
