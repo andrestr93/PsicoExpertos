@@ -1,10 +1,12 @@
 ---
 import Badge from "./Badge.astro";
+import ListBadge from "./ListBadge.astro";
 
+const tags=  ['Terapia Online' , 'Depresión' , 'Autoestima']
 
 ---
      
      
-     <div class=" text-xs ">
-       <p class="flex flex-wrap items-center gap-2 font-semibold">Busquedas Populares: <Badge title="Terapia Online"/><Badge title="Depresión"/><Badge title="Autoestima"/></p> 
+     <div >
+       <p class= " font-semibold">Busquedas Populares: <ListBadge tags={tags}/></p> 
     </div>

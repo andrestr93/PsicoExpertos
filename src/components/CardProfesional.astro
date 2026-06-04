@@ -1,9 +1,28 @@
 ---
-import Badge from "./Badge.astro";
+import Circle from "../icons/Circle.astro";
+import Star from "../icons/Star.astro";
+import ListBadge from "./ListBadge.astro";
+const tags = ['Terapia Online' , 'Depresión' , 'Autoestima']
 ---
 
-<div class="   py-10 px-12 border rounded-3xl">
-    <p class="text-center text-2xl font-semibold">Dra. Elenea Martinez</p>
-    <p class="text-center text-blue-600">Especialista en Ansiedad y estrés</p>
-    <Badge  title="Terapia Cognitiva"/>  <Badge title="Adultos"/>
+<div class=" bg-white border border-gray-200 shadow-xl shadow-gray-200/5   rounded-3xl py-8 px-10 ml-3 mr-3 mt-5 mb-5 flex flex-col gap-5 ">
+    <div class="ml-auto bg-green-100 py-2 px-4 rounded-2xl flex gap-1 items-center">
+        <span><Circle class="w-3 h-3 text-green-400"/></span>
+        <span class=" text-xs font-semibold">Disponible hoy</span>
+
+    </div>
+    <p class=" text-2xl font-semibold">Dra. Elenea Martinez</p>
+    <p class=" text-blue-600">Especialista en Ansiedad y estrés</p>
+       <div>
+ <ListBadge tags={tags}/>
+    </div>
+    <hr/>
+    <div class="flex justify-between">
+        <div class="flex items-center gap-2">
+            <span><Star class="w-5 h-5 text-amber-300"/></span>
+            <span class="font-bold text-xl">4.9 <span class="text-sm font-semibold">(129)</span></span>
+
+        </div>
+        <span class="font-bold">60$/sesion</span>
+    </div>
 </div>

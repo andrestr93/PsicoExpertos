@@ -1,0 +1,16 @@
+---
+import Badge from './Badge.astro'
+
+interface Props {
+    
+    tags: string[]
+}
+
+const {tags} = Astro.props
+---
+
+
+{tags.map((tag) => (
+    <Badge title={tag} />
+  ))}
+
