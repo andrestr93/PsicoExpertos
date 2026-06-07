@@ -2,6 +2,8 @@
 import Logo from "./Logo.astro";
 
 
+const currentYear = new Date().getFullYear()
+
 ---
 
 <footer class="bg-container w-full  py-8 px-5 ">
@@ -36,7 +38,12 @@ import Logo from "./Logo.astro";
             </div>
      
         </div>
-        
+
+        <div class="  py-4 px-5 ">
+      
+            <p class="text-xs text-center">©{currentYear} PsicoExpertos profesionales de la salud mental en España</p>
+
+        </div>
 
     </div>
 </footer>

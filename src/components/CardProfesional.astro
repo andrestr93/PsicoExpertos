@@ -2,8 +2,55 @@
 import Circle from "../icons/Circle.astro";
 import Star from "../icons/Star.astro";
 import ListBadge from "./ListBadge.astro";
+import profesionales from '../data/profesionales-limpio.json'
 const tags = ['Terapia Online' , 'Depresión' , 'Autoestima']
+
+
+
 ---
+
+
+<!--
+
+  {
+    "name": "Ana Moles Psicologa",
+    "phone": "685 20 65 61",
+    "email": null,
+    "website": null,
+    "address": "C. Olivo, 4,18100 Armilla,Granada",
+    "social_media": {
+      "instagram": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "yelp": null,
+      "youtube": null
+    },
+    "google_places": {
+      "place_id": "ChIJJ-ipcZ37cQ0RItnLJDI9wKo",
+      "cid": "-6142842606158358238",
+      "category": "Psicólogo",
+      "review_count": 2,
+      "average_rating": 3,
+      "latitude": 37.1442164,
+      "longitude": -3.6221989
+    },
+    "horario": {
+      "lunes": null,
+      "martes": null,
+      "miercoles": null,
+      "jueves": null,
+      "viernes": null,
+      "sabado": null,
+      "domingo": null
+    }
+  },
+
+-->
+
+<ul>
+  {profesionales.map((professional) => (
+    <li>
 
 <div class=" bg-white border border-gray-200 shadow-xl shadow-gray-200/5   rounded-3xl py-8 px-10 ml-3 mr-3 mt-5 mb-5 flex flex-col gap-5 ">
     <div class="ml-auto bg-green-100 py-2 px-4 rounded-2xl flex gap-1 items-center">
@@ -11,7 +58,11 @@ const tags = ['Terapia Online' , 'Depresión' , 'Autoestima']
         <span class=" text-xs font-semibold">Disponible hoy</span>
 
     </div>
-    <p class=" text-2xl font-semibold">Dra. Elenea Martinez</p>
+
+    <div>
+
+    </div>
+    <p class=" text-2xl font-semibold">{professional.name}</p>
     <p class=" text-blue-600">Especialista en Ansiedad y estrés</p>
        <div>
  <ListBadge tags={tags}/>
@@ -26,3 +77,11 @@ const tags = ['Terapia Online' , 'Depresión' , 'Autoestima']
         <span class="font-bold">60$/sesion</span>
     </div>
 </div>
+
+
+
+
+    </li>
+  ))}
+</ul>
+

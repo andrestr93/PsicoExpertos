@@ -1,0 +1,3394 @@
+{
+  "provincia": "Granada",
+  "slug": "granada",
+  "profesionales": [
+    {
+      "name": "Ana Moles Psicologa",
+      "phone": "685 20 65 61",
+      "email": null,
+      "website": null,
+      "address": "C. Olivo, 4,18100 Armilla,Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJJ-ipcZ37cQ0RItnLJDI9wKo",
+        "cid": "-6142842606158358238",
+        "category": "Psicólogo",
+        "review_count": 2,
+        "average_rating": 3,
+        "latitude": 37.1442164,
+        "longitude": -3.6221989
+      },
+      "horario": {
+        "lunes": null,
+        "martes": null,
+        "miercoles": null,
+        "jueves": null,
+        "viernes": null,
+        "sabado": null,
+        "domingo": null
+      },
+      "_meta": {
+        "slug": "ana-moles-psicologa",
+        "municipio": "Armilla",
+        "municipio_slug": "armilla",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18100",
+        "calle": "C. Olivo, 4",
+        "url": "/psicologo/granada/armilla/ana-moles-psicologa/",
+        "schema_rating": false
+      }
+    },
+    {
+      "name": "Ester Maldonado López PSICÓLOGA",
+      "phone": "636 34 71 89",
+      "email": "estermaldonadolopez@hotmail.com",
+      "website": "https://estermaldonadolopez.com/",
+      "address": "C. Lérida, 3, Oficina 5,18100 Armilla,Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": "https://www.facebook.com/ester.maldonadolopez.1",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ73oiKh77cQ0RwbxcSfybf3I",
+        "cid": "8250484550230916289",
+        "category": "Psicólogo",
+        "review_count": 56,
+        "average_rating": 5,
+        "latitude": 37.1443895,
+        "longitude": -3.6256494
+      },
+      "horario": {
+        "lunes": "10:00–13:30, 17:00–20:00",
+        "martes": "10:00–13:30, 17:00–20:00",
+        "miercoles": "10:00–13:30, 17:00–20:00",
+        "jueves": "10:00–13:30, 17:00–20:00",
+        "viernes": "10:00–13:30, 17:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "ester-maldonado-lopez-psicologa",
+        "municipio": "Armilla",
+        "municipio_slug": "armilla",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18100",
+        "calle": "C. Lérida, 3, Oficina 5",
+        "url": "/psicologo/granada/armilla/ester-maldonado-lopez-psicologa/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicólogos en Granada",
+      "phone": "634 51 93 11",
+      "email": "info@psicologoengranada.es",
+      "website": "https://psicologoengranada.es/",
+      "address": "Calle José Recuerda, 4, 1D Despacho B,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologia.conmigo",
+        "facebook": "https://www.facebook.com/psicologoengranada",
+        "twitter": "https://twitter.com/PsicologoGR",
+        "linkedin": "https://www.linkedin.com/company/11032434",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJd_UA1pP8cQ0RsAkR04A6ubI",
+        "cid": "-5568355139295573584",
+        "category": "Psicólogo",
+        "review_count": 64,
+        "average_rating": 4.9,
+        "latitude": 37.1731043,
+        "longitude": -3.6088923
+      },
+      "horario": {
+        "lunes": "10:00–22:00",
+        "martes": "10:00–22:00",
+        "miercoles": "10:00–22:00",
+        "jueves": "10:00–22:00",
+        "viernes": "10:00–22:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologos-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "Calle José Recuerda, 4, 1D Despacho B",
+        "url": "/psicologo/granada/granada/psicologos-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Alborán PSICÓLOGOS",
+      "phone": "958 87 00 60",
+      "email": "direccion@alboranpsicologia.com",
+      "website": "https://www.alboran-psicologos.com/",
+      "address": "C. Pedro Antonio de Alarcón, 41,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologosalboran",
+        "facebook": "https://www.facebook.com/Centro-de-Psicolog,https://www.facebook.com/Centro-de-Psicolog%C3%ADa-Albor%C3%A1n-Granada-109860125013621",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": "https://www.youtube.com/@luisaldana13"
+      },
+      "google_places": {
+        "place_id": "ChIJ2U-4q5b8cQ0RBMtPDCS95WU",
+        "cid": "7342482730020489988",
+        "category": "Psicólogo",
+        "review_count": 153,
+        "average_rating": 4.9,
+        "latitude": 37.172748,
+        "longitude": -3.6064551
+      },
+      "horario": {
+        "lunes": "10:00–20:30",
+        "martes": "10:00–20:30",
+        "miercoles": "10:00–20:30",
+        "jueves": "10:00–20:30",
+        "viernes": "10:00–20:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "alboran-psicologos",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "C. Pedro Antonio de Alarcón, 41",
+        "url": "/psicologo/granada/granada/alboran-psicologos/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Granada Psicólogos",
+      "phone": "607 45 06 34",
+      "email": "granadapsicologos@gmail.com",
+      "website": "http://psicologosgranada.es/",
+      "address": "Reyes Católicos, 20, 3ºB,Centro,18009 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJa1cr8r78cQ0RiMqh9FaMpA8",
+        "cid": "1127180111848786568",
+        "category": "Psicólogo",
+        "review_count": 295,
+        "average_rating": 4.9,
+        "latitude": 37.1748487,
+        "longitude": -3.5985602
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "10:00–14:00",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "granada-psicologos",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18009",
+        "calle": "Reyes Católicos, 20, 3ºB",
+        "url": "/psicologo/granada/granada/granada-psicologos/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Paula R. Morell Psicología EMDR Granada",
+      "phone": "669 19 92 93",
+      "email": "hola@paularmorellpsicologia.com",
+      "website": "http://www.paularmorellpsicologia.com/",
+      "address": "Av. de Barcelona, 4, local 2,Zaidín,18006 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/paularmorell.psicologia,https://www.instagram.com/paularmorell.psicologia?igshid=MzRlODBiNWFlZA==",
+        "facebook": "https://www.facebook.com/profile.php?id=100082438344103",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/in/paularuizmorell,https://www.linkedin.com/in/paularuizmorell?originalSubdomain=es",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJA9IzuMT9cQ0RZ6mpGiAg0Ec",
+        "cid": "5174671294107068775",
+        "category": "Psicólogo",
+        "review_count": 72,
+        "average_rating": 5,
+        "latitude": 37.1619754,
+        "longitude": -3.6021946
+      },
+      "horario": {
+        "lunes": "8:00–21:00",
+        "martes": "8:00–21:00",
+        "miercoles": "8:00–21:00",
+        "jueves": "8:00–20:30",
+        "viernes": "8:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "paula-r-morell-psicologia-emdr-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "Av. de Barcelona, 4, local 2",
+        "url": "/psicologo/granada/granada/paula-r-morell-psicologia-emdr-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Cristina Cruz Martín Psicóloga",
+      "phone": null,
+      "email": "hola@cristinacruzpsicologia.com",
+      "website": "https://cristinacruzpsicologia.com/",
+      "address": "Pl. del Campillo, n° 2, 3°K,Centro,18009 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologia_cristinacruz",
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJJ845ECb9cQ0RR6Pzsc4WUcI",
+        "cid": "-4444746280233360569",
+        "category": "Psicólogo",
+        "review_count": 79,
+        "average_rating": 5,
+        "latitude": 37.1726483,
+        "longitude": -3.5983954
+      },
+      "horario": {
+        "lunes": "9:00–20:00",
+        "martes": "9:00–20:00",
+        "miercoles": "9:00–20:00",
+        "jueves": "9:00–20:00",
+        "viernes": "9:00–15:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "cristina-cruz-martin-psicologa",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18009",
+        "calle": "Pl. del Campillo, n° 2, 3°K",
+        "url": "/psicologo/granada/granada/cristina-cruz-martin-psicologa/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Candela Carrillo",
+      "phone": "687 05 25 89",
+      "email": "candelacarrillopsico@gmail.com",
+      "website": "http://www.candelacarrillo.com/",
+      "address": "P.º Jardín de la Reina, 10, Local D,Ronda,18006 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/mindvulvness,https://www.instagram.com/p/DVdRS4kjcVw,https://www.instagram.com/reel/DTHyqokDVwb,https://www.instagram.com/reel/DSXS8OSDS9j,https://www.instagram.com/reel/DR2SGF_DC6u",
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJQevopxnGVSoREuXZOO7Vz08",
+        "cid": "5751050468308149522",
+        "category": "Psicólogo",
+        "review_count": 45,
+        "average_rating": 5,
+        "latitude": 37.1630286,
+        "longitude": -3.6027831
+      },
+      "horario": {
+        "lunes": "9:00–22:00",
+        "martes": "9:00–22:00",
+        "miercoles": "9:00–22:00",
+        "jueves": "9:00–22:00",
+        "viernes": "9:00–22:00",
+        "sabado": "9:00–14:00",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-candela-carrillo",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "P.º Jardín de la Reina, 10, Local D",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-candela-carrillo/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Clínica Origen Psicología y Psiquiatría",
+      "phone": "958 08 09 44",
+      "email": null,
+      "website": "https://clinicasorigen.es/clinica-psicologica/granada-pedro-antonio-de-alarcon/?utm_campaign=noviembre24&utm_content=sitio-web-gmb&utm_medium=gmb&utm_source=fichadegoogle",
+      "address": "C. Pedro Antonio de Alarcón, 25,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/clinicasorigen",
+        "facebook": "https://www.facebook.com/Cl,https://www.facebook.com/Cl%C3%ADnicas-Origen-537646993093476",
+        "twitter": "https://twitter.com/ClinicasOrigen",
+        "linkedin": "https://www.linkedin.com/company/cl,https://www.linkedin.com/company/cl%C3%ADnicas-origen",
+        "yelp": null,
+        "youtube": "https://www.youtube.com/channel/UC8QcpGBgCsoV8pcSWdyXmBw"
+      },
+      "google_places": {
+        "place_id": "ChIJq-Vds4L9cQ0RBlz7qLgLBM0",
+        "cid": "-3673798508290548730",
+        "category": "Psiquiatra",
+        "review_count": 76,
+        "average_rating": 4.7,
+        "latitude": 37.1712633,
+        "longitude": -3.605484
+      },
+      "horario": {
+        "lunes": "9:30–21:30",
+        "martes": "9:30–21:30",
+        "miercoles": "9:30–21:30",
+        "jueves": "9:30–21:30",
+        "viernes": "9:30–21:30",
+        "sabado": "11:00–15:00",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "clinica-origen-psicologia-y-psiquiatria",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "C. Pedro Antonio de Alarcón, 25",
+        "url": "/psicologo/granada/granada/clinica-origen-psicologia-y-psiquiatria/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "ArmiSalud-Centro de Psicología",
+      "phone": "640 31 07 86",
+      "email": "armisalud@gmail.com",
+      "website": "http://armisaludpsicologos.com/",
+      "address": "C. Tres Cruces, 21,18100 Armilla,Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": "https://www.facebook.com/armisalud",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJEyIeC5z7cQ0RgbKgjtuvias",
+        "cid": "-6086140063888919935",
+        "category": "Psicólogo",
+        "review_count": 11,
+        "average_rating": 4.3,
+        "latitude": 37.1422208,
+        "longitude": -3.6298278
+      },
+      "horario": {
+        "lunes": "10:00–21:00",
+        "martes": "10:00–21:00",
+        "miercoles": "10:00–21:00",
+        "jueves": "10:00–21:00",
+        "viernes": "10:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "armisalud-centro-de-psicologia",
+        "municipio": "Armilla",
+        "municipio_slug": "armilla",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18100",
+        "calle": "C. Tres Cruces, 21",
+        "url": "/psicologo/granada/armilla/armisalud-centro-de-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Asociación Granada Familia",
+      "phone": "958 95 88 55",
+      "email": "info@granadafamilia.org",
+      "website": "http://www.granadafamilia.org/",
+      "address": "C. Real de Armilla, 29,18100 Armilla,Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/granada_familia",
+        "facebook": "https://es-la.facebook.com/asociacion3sesenta",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ729Ns5j8cQ0RIVY55zf6u9E",
+        "cid": "-3333795981128280543",
+        "category": "Psicólogo",
+        "review_count": 38,
+        "average_rating": 4.9,
+        "latitude": 37.1443965,
+        "longitude": -3.6246292
+      },
+      "horario": {
+        "lunes": "11:00–13:00, 18:00–20:00",
+        "martes": "11:00–13:00, 18:00–20:00",
+        "miercoles": "11:00–13:00, 18:00–20:00",
+        "jueves": "11:00–13:00, 18:00–20:00",
+        "viernes": "Cerrado",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "asociacion-granada-familia",
+        "municipio": "Armilla",
+        "municipio_slug": "armilla",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18100",
+        "calle": "C. Real de Armilla, 29",
+        "url": "/psicologo/granada/armilla/asociacion-granada-familia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicóloga Granada Ángela Lara",
+      "phone": "611 83 63 20",
+      "email": null,
+      "website": "https://www.doctoralia.es/angela-lara-gomez/psicologo/granada",
+      "address": "Av. Don Bosco, 14,Zaidín,18006 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologaangelalara",
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJqyQahoj9cQ0RTema0O-w4pA",
+        "cid": "-8006642643467835059",
+        "category": "Psicólogo",
+        "review_count": 6,
+        "average_rating": 5,
+        "latitude": 37.1594559,
+        "longitude": -3.6021574
+      },
+      "horario": {
+        "lunes": "16:00–20:00",
+        "martes": "9:00–14:00",
+        "miercoles": "16:00–20:00",
+        "jueves": "9:00–14:00",
+        "viernes": "16:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologa-granada-angela-lara",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "Av. Don Bosco, 14",
+        "url": "/psicologo/granada/granada/psicologa-granada-angela-lara/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicologa Granada Erika Carrillo",
+      "phone": "662 68 61 72",
+      "email": null,
+      "website": "https://erikacarrillopsicologagranada.com/",
+      "address": "Cam. de Ronda, 53,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologagranadaerikacarrillo",
+        "facebook": "https://es-es.facebook.com/psicoartgranada",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": "https://www.youtube.com/@erikacarrillopsicologaengr1881"
+      },
+      "google_places": {
+        "place_id": "ChIJ6-PQzPH9cQ0RtjVB3FNt-TQ",
+        "cid": "3817202366118180278",
+        "category": "Psicólogo",
+        "review_count": 109,
+        "average_rating": 5,
+        "latitude": 37.1681678,
+        "longitude": -3.6047723
+      },
+      "horario": {
+        "lunes": "10:00–14:00, 15:30–20:30",
+        "martes": "15:00–20:30",
+        "miercoles": "15:00–20:30",
+        "jueves": "9:00–14:00",
+        "viernes": "Cerrado",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologa-granada-erika-carrillo",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "Cam. de Ronda, 53",
+        "url": "/psicologo/granada/granada/psicologa-granada-erika-carrillo/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Ana Antelo | Psicóloga en Granada",
+      "phone": "678 26 16 87",
+      "email": "ana.antelopezz@gmail.com",
+      "website": "https://anaantelopsicologa.es/",
+      "address": "C. las Flores, bajo 3,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/ana.antelo.psico",
+        "facebook": "https://www.facebook.com/ana.antelo.psico",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/in/ana-antelo-b60313300",
+        "yelp": null,
+        "youtube": "https://www.youtube.com/@AnaAnteloPsicologa"
+      },
+      "google_places": {
+        "place_id": "ChIJVxbgU5H8cQ0RcMy8YfKDmrM",
+        "cid": "-5504942517461922704",
+        "category": "Psicólogo",
+        "review_count": 58,
+        "average_rating": 5,
+        "latitude": 37.1685326,
+        "longitude": -3.6051066
+      },
+      "horario": {
+        "lunes": "9:00–18:00",
+        "martes": "9:00–18:00",
+        "miercoles": "9:00–14:00",
+        "jueves": "9:00–14:00",
+        "viernes": "9:00–14:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "ana-antelo-psicologa-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "C. las Flores, bajo 3",
+        "url": "/psicologo/granada/granada/ana-antelo-psicologa-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Agora Psicólogas",
+      "phone": "666 14 09 14",
+      "email": "hola@centroagoragranada.com",
+      "website": "http://www.centroagoragranada.com/",
+      "address": "Calle Casillas del Prats Nº 10 D,Bajo,18002 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJC_IlWr78cQ0RsBlpoe-WYu8",
+        "cid": "-1197228594977760848",
+        "category": "Psicólogo",
+        "review_count": 211,
+        "average_rating": 4.9,
+        "latitude": 37.1736366,
+        "longitude": -3.6052365
+      },
+      "horario": {
+        "lunes": "10:00–14:00, 16:00–21:00",
+        "martes": "10:00–14:00, 16:00–21:00",
+        "miercoles": "10:00–14:00, 16:00–21:00",
+        "jueves": "10:00–14:00, 16:00–21:00",
+        "viernes": "10:00–14:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "agora-psicologas",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18002",
+        "calle": "Calle Casillas del Prats Nº 10 D",
+        "url": "/psicologo/granada/granada/agora-psicologas/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Mar González Vida. Psicoterapia y Psicopedagogía",
+      "phone": "653 02 97 66",
+      "email": "margonzalezvida@gmail.com",
+      "website": "https://margonzalezvidapsicoeducacion.es/",
+      "address": "Av. Pablo Picasso, 23,Genil,18006 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/margonzalezvida,https://www.instagram.com/margonzalezvida?utm_source=qr&#038;igsh=MTdyZTJhczh0ZWY3Ng==",
+        "facebook": "https://www.facebook.com/share,https://www.facebook.com/share/19AzRay2tq",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJA2Wn5Qf9cQ0RjB1KFolyJoU",
+        "cid": "-8852262084440089204",
+        "category": "Psicólogo",
+        "review_count": 80,
+        "average_rating": 4.9,
+        "latitude": 37.1643762,
+        "longitude": -3.5958208
+      },
+      "horario": {
+        "lunes": "15:30–21:30",
+        "martes": "15:30–21:30",
+        "miercoles": "15:30–21:30",
+        "jueves": "15:30–21:30",
+        "viernes": "Cerrado",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "mar-gonzalez-vida-psicoterapia-y-psicopedagogia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "Av. Pablo Picasso, 23",
+        "url": "/psicologo/granada/granada/mar-gonzalez-vida-psicoterapia-y-psicopedagogia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Zoraida Rodríguez Centro de Psicología",
+      "phone": "676 10 67 82",
+      "email": null,
+      "website": "https://zrpsicologos.es/?utm_source=GBP&utm_medium=clic&utm_campaign=oficial",
+      "address": "C. San Antón, 48-50, Entreplanta, oficina 3,Centro,18005 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/zrpsicologia,https://www.instagram.com/zrpsicologia?hl=es",
+        "facebook": "https://www.facebook.com/ZoraidaRodriguezPsicologa",
+        "twitter": "https://twitter.com/Zoraida",
+        "linkedin": "https://www.linkedin.com/in/zoraida-rodriguez-7980a341",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJJQ5iF738cQ0RLVBxSUOvuzI",
+        "cid": "3655708226071121965",
+        "category": "Psicólogo",
+        "review_count": 247,
+        "average_rating": 5,
+        "latitude": 37.1695422,
+        "longitude": -3.5996595
+      },
+      "horario": {
+        "lunes": "8:00–22:00",
+        "martes": "8:00–22:00",
+        "miercoles": "8:00–22:00",
+        "jueves": "8:00–22:00",
+        "viernes": "8:00–22:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "zoraida-rodriguez-centro-de-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. San Antón, 48-50, Entreplanta, oficina 3",
+        "url": "/psicologo/granada/granada/zoraida-rodriguez-centro-de-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicólogos SERdeagua",
+      "phone": "640 54 84 51",
+      "email": "info@serdeagua.com",
+      "website": "https://www.serdeagua.com/",
+      "address": "C. San Antón, 72, 5° 11,Ronda,18005 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/ser.deagua",
+        "facebook": "https://www.facebook.com/PSICOSERdeAGUA",
+        "twitter": "https://twitter.com/SER_deAGUA",
+        "linkedin": "https://www.linkedin.com/company/serdeagua",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJs09h6WGipBIRYjBGYjo2USA",
+        "cid": "2328702106712027234",
+        "category": "Psicólogo",
+        "review_count": 136,
+        "average_rating": 4.9,
+        "latitude": 37.1678555,
+        "longitude": -3.5990192
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "9:00–14:30",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologos-serdeagua",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. San Antón, 72, 5° 11",
+        "url": "/psicologo/granada/granada/psicologos-serdeagua/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "GALIM Psicología - Psicólogo en Granada",
+      "phone": "609 78 86 63",
+      "email": "contacto@galimpsicologia.com",
+      "website": "https://www.galimpsicologia.com/",
+      "address": "C. Recogidas, 46, Planta 1. Consulta 13,Ronda,18002 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/galimpsicologia",
+        "facebook": null,
+        "twitter": "https://x.com/bolt,https://x.com/suricate",
+        "linkedin": "https://www.linkedin.com/company/galim-gabinete-de-psicolog,https://www.linkedin.com/company/galim-gabinete-de-psicolog%C3%ADa/about",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJKRUXT2f9cQ0RKYPsjtxKrTk",
+        "cid": "4156060342283961129",
+        "category": "Psicólogo",
+        "review_count": 72,
+        "average_rating": 5,
+        "latitude": 37.1710601,
+        "longitude": -3.6043626
+      },
+      "horario": {
+        "lunes": "9:00–14:00, 16:00–21:00",
+        "martes": "9:00–14:00, 16:00–21:00",
+        "miercoles": "9:00–14:00, 16:00–21:00",
+        "jueves": "9:00–14:00, 16:00–21:00",
+        "viernes": "9:00–14:00, 16:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "galim-psicologia-psicologo-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18002",
+        "calle": "C. Recogidas, 46, Planta 1. Consulta 13",
+        "url": "/psicologo/granada/granada/galim-psicologia-psicologo-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Sanamente Centro de Psicología en Granada",
+      "phone": "601 50 96 52",
+      "email": "sanamentepsicologas@gmail.com",
+      "website": "http://sanamentepsicologas.es/",
+      "address": "Calle San Juan de Dios, 49, 3º derecha,Centro,18001 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/sanamentepsicologas",
+        "facebook": "https://m.facebook.com/p/Sanamente-psic%C3%B3logas-100069865710906",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/company/sanamente-centro-de-psicologia,https://www.linkedin.com/company/sanamente-centro-de-psicologia/about",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJg5gZqW39cQ0R8y6qn9S8N7o",
+        "cid": "-5028342837538050317",
+        "category": "Psicólogo",
+        "review_count": 158,
+        "average_rating": 5,
+        "latitude": 37.1823824,
+        "longitude": -3.6024914
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "sanamente-centro-de-psicologia-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18001",
+        "calle": "Calle San Juan de Dios, 49, 3º derecha",
+        "url": "/psicologo/granada/granada/sanamente-centro-de-psicologia-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicología Miguel Ángel Solier",
+      "phone": "685 17 59 78",
+      "email": "m.terapiapsicologica@gmail.com",
+      "website": "http://psicologiamiguelangelsolier.com/",
+      "address": "Av. de América, 22, 1D,Zaidín,18006 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologiamiguelangelsolier",
+        "facebook": "https://www.facebook.com/psicologiamiguelangelsolier",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJv6OVz8T9cQ0R7tHLbnv_D_0",
+        "cid": "-211669751858212370",
+        "category": "Psicólogo",
+        "review_count": 37,
+        "average_rating": 5,
+        "latitude": 37.1608427,
+        "longitude": -3.5989492
+      },
+      "horario": {
+        "lunes": "9:00–13:00, 16:00–20:00",
+        "martes": "9:00–13:00, 16:00–20:00",
+        "miercoles": "9:00–13:00, 16:00–20:00",
+        "jueves": "9:00–13:00, 16:00–20:00",
+        "viernes": "9:00–13:00, 16:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologia-miguel-angel-solier",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "Av. de América, 22, 1D",
+        "url": "/psicologo/granada/granada/psicologia-miguel-angel-solier/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Celia López Psicóloga en Granada",
+      "phone": "661 84 50 78",
+      "email": "contacto@celialopezpsicologa.com",
+      "website": "http://www.celialopezpsicologa.com/",
+      "address": "C. Cerro de los Machos, 3, Centro Aureal,Genil,18008 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologacelialopez",
+        "facebook": "https://www.facebook.com/celialopezpsicologa",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJb50uBHb9cQ0RSLry3_f95-M",
+        "cid": "-2024370266423772600",
+        "category": "Psicólogo",
+        "review_count": 22,
+        "average_rating": 5,
+        "latitude": 37.1610017,
+        "longitude": -3.5860319
+      },
+      "horario": {
+        "lunes": "10:00–13:00, 17:00–19:30",
+        "martes": "15:30–20:30",
+        "miercoles": "10:00–13:00, 17:00–19:30",
+        "jueves": "15:30–20:30",
+        "viernes": "10:00–15:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "celia-lopez-psicologa-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18008",
+        "calle": "C. Cerro de los Machos, 3, Centro Aureal",
+        "url": "/psicologo/granada/granada/celia-lopez-psicologa-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Cima Psicólogos",
+      "phone": "647 95 34 67",
+      "email": "info@cimapsicologos.es",
+      "website": "https://cimapsicologosgranada.es/",
+      "address": "Despacho 2,Cam. de Ronda, 71, 2º Izq,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ2-AJ1Jb8cQ0RkHLvjT4mbvM",
+        "cid": "-905744424943783280",
+        "category": "Psicólogo",
+        "review_count": 20,
+        "average_rating": 5,
+        "latitude": 37.1705644,
+        "longitude": -3.6064661
+      },
+      "horario": {
+        "lunes": "9:00–14:00, 16:00–21:00",
+        "martes": "9:00–14:00, 16:00–21:00",
+        "miercoles": "9:00–14:00, 16:00–21:00",
+        "jueves": "9:00–14:00, 16:00–21:00",
+        "viernes": "9:00–14:00, 16:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "cima-psicologos",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "Despacho 2, Cam. de Ronda, 71, 2º Izq",
+        "url": "/psicologo/granada/granada/cima-psicologos/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Mente Positiva Lic.Jessica Galvez",
+      "phone": "695 83 11 35",
+      "email": null,
+      "website": null,
+      "address": "C. Compositor Luís Mejías, N° 5, Local N°32,Zaidín,18006 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJX8ZNcJ_8cQ0RCSl0m-S0APw",
+        "cid": "-288031482198087415",
+        "category": "Psicólogo",
+        "review_count": 37,
+        "average_rating": 5,
+        "latitude": 37.1603254,
+        "longitude": -3.602111
+      },
+      "horario": {
+        "lunes": "10:00–20:00",
+        "martes": "10:00–20:00",
+        "miercoles": "10:00–20:00",
+        "jueves": "10:00–20:00",
+        "viernes": "10:00–14:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-mente-positiva-licjessica-galvez",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "C. Compositor Luís Mejías, N° 5, Local N°32",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-mente-positiva-licjessica-galvez/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicología sistémica | Medicina Tradicional China | Ana Vico",
+      "phone": "644 61 60 98",
+      "email": null,
+      "website": "https://befullness.com/",
+      "address": "C. Pedro Antonio de Alarcón, 13,Ronda,18005 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/befullness",
+        "facebook": "https://www.facebook.com/BeFullness,https://www.facebook.com/befullness",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": "https://www.youtube.com/c/Befullness?sub_confirmation=1"
+      },
+      "google_places": {
+        "place_id": "ChIJB0kidUP9cQ0RaiGVwiCRkO0",
+        "cid": "-1328402320184762006",
+        "category": "Psicólogo",
+        "review_count": 36,
+        "average_rating": 4.9,
+        "latitude": 37.1698744,
+        "longitude": -3.6044087
+      },
+      "horario": {
+        "lunes": "Abierto 24 horas",
+        "martes": "Abierto 24 horas",
+        "miercoles": "Abierto 24 horas",
+        "jueves": "Abierto 24 horas",
+        "viernes": "Abierto 24 horas",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologia-sistemica-medicina-tradicional-china-ana-vico",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. Pedro Antonio de Alarcón, 13",
+        "url": "/psicologo/granada/granada/psicologia-sistemica-medicina-tradicional-china-ana-vico/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psyfeel psicólogos Granada",
+      "phone": "622 78 25 52",
+      "email": null,
+      "website": "https://psyfeel.com/centros/psicologos-granada",
+      "address": "Av. de la Constitución, 10, 1º A, despacho 1,Albaicín,18012 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJhWUPIO39cQ0RHkbuX294OdM",
+        "cid": "-3226415238288095714",
+        "category": "Psicólogo",
+        "review_count": 38,
+        "average_rating": 5,
+        "latitude": 37.1842674,
+        "longitude": -3.603934
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "9:00–14:00",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psyfeel-psicologos-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18012",
+        "calle": "Av. de la Constitución, 10, 1º A, despacho 1",
+        "url": "/psicologo/granada/granada/psyfeel-psicologos-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Integral Carmen Verdejo",
+      "phone": "679 42 76 10",
+      "email": null,
+      "website": "http://www.centrodepsicologiaengranada.com/",
+      "address": "Cam. de los Abencerrajes, 17,Genil,18008 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJVVXlPab8cQ0RksISf23UhL0",
+        "cid": "-4790470536866905454",
+        "category": "Psicólogo",
+        "review_count": 37,
+        "average_rating": 4.9,
+        "latitude": 37.1609403,
+        "longitude": -3.5902489
+      },
+      "horario": {
+        "lunes": "10:00–14:00, 17:00–21:00",
+        "martes": "10:00–14:00, 17:00–21:00",
+        "miercoles": "10:00–14:00, 17:00–21:00",
+        "jueves": "10:00–14:00, 17:00–21:00",
+        "viernes": "10:00–14:00, 17:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-integral-carmen-verdejo",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18008",
+        "calle": "Cam. de los Abencerrajes, 17",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-integral-carmen-verdejo/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Encarni Cabrera Gabinete Psicología",
+      "phone": "628 37 29 42",
+      "email": "ecabreramolina@gmail.com",
+      "website": "https://www.psicologaencarnicabrera.com/",
+      "address": "C. Torre de la Cautiva, 15, local B,Genil,18007 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": "https://es-es.facebook.com/people/Encarni-Cabrera-Molina/100010160084811",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJBUU0Xxj7cQ0ReqAWFD5oolk",
+        "cid": "6458839431437000826",
+        "category": "Psicólogo",
+        "review_count": 25,
+        "average_rating": 5,
+        "latitude": 37.1539675,
+        "longitude": -3.5896249
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "encarni-cabrera-gabinete-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18007",
+        "calle": "C. Torre de la Cautiva, 15, local B",
+        "url": "/psicologo/granada/granada/encarni-cabrera-gabinete-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicotea Granada",
+      "phone": "696 95 99 66",
+      "email": "info@psicoteagranada.com",
+      "website": "https://www.psicoteagranada.com/",
+      "address": "C. Alminares del Genil, 2, 1ºC,Genil,18006 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicotea_granada",
+        "facebook": "https://m.facebook.com/profile.php?id=100071476269997",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ93-biET9cQ0RiIXC1TIA4_A",
+        "cid": "-1089026466558868088",
+        "category": "Psicólogo",
+        "review_count": 14,
+        "average_rating": 4.9,
+        "latitude": 37.1670022,
+        "longitude": -3.5958967
+      },
+      "horario": {
+        "lunes": "10:00–21:00",
+        "martes": "10:00–21:00",
+        "miercoles": "10:00–21:00",
+        "jueves": "10:00–21:00",
+        "viernes": "10:00–21:00",
+        "sabado": "10:00–14:00",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicotea-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "C. Alminares del Genil, 2, 1ºC",
+        "url": "/psicologo/granada/granada/psicotea-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Atención Psicológica Irene Hidalgo",
+      "phone": "699 50 02 11",
+      "email": null,
+      "website": "http://www.irenehidalgo.com/",
+      "address": "C. Torre del Capitán, 2, local 2,Genil,18008 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJLZy6muj8cQ0RuqHelV8npw4",
+        "cid": "1055855929131442618",
+        "category": "Psicólogo",
+        "review_count": 16,
+        "average_rating": 5,
+        "latitude": 37.158128,
+        "longitude": -3.587246
+      },
+      "horario": {
+        "lunes": "9:30–13:30, 16:30–20:30",
+        "martes": "9:30–13:30, 16:30–20:30",
+        "miercoles": "9:30–13:30, 16:30–21:30",
+        "jueves": "9:30–13:30, 16:30–21:30",
+        "viernes": "9:30–13:30, 16:30–18:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-atencion-psicologica-irene-hidalgo",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18008",
+        "calle": "C. Torre del Capitán, 2, local 2",
+        "url": "/psicologo/granada/granada/centro-de-atencion-psicologica-irene-hidalgo/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Ángela Medina",
+      "phone": "661 34 23 31",
+      "email": "centrodepsicologiaangelamedina@gmail.com",
+      "website": "http://www.angelamedinapsicologa.es/",
+      "address": "C. Nécora, 7,Chana,18003 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/angelamedinapsicologa",
+        "facebook": "https://www.facebook.com/angela.medinapenalver",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/in/%C3%A1ngela-medina-pe%C3%B1alver-16518456",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJCZE4e939cQ0RoCXKYLZNNC0",
+        "cid": "3257313876198958496",
+        "category": "Psicólogo",
+        "review_count": 113,
+        "average_rating": 5,
+        "latitude": 37.1862377,
+        "longitude": -3.6157803
+      },
+      "horario": {
+        "lunes": "10:00–14:00, 16:00–21:00",
+        "martes": "10:00–14:00, 16:00–21:00",
+        "miercoles": "10:00–14:00, 16:00–21:00",
+        "jueves": "10:00–14:00, 16:00–21:00",
+        "viernes": "10:00–14:00, 16:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-angela-medina",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18003",
+        "calle": "C. Nécora, 7",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-angela-medina/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicólogo en Granada Celabpsi",
+      "phone": "622 67 79 97",
+      "email": "20contacto@celabpsi.es",
+      "website": "https://celabpsi.es/?utm_source=business&utm_medium=organic&utm_campaign=my_business",
+      "address": "Cam. de Ronda, 82, 1ºF,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ5X8-9a39cQ0RAWAQmpK99Is",
+        "cid": "-8361850170772529151",
+        "category": "Psicólogo",
+        "review_count": 3,
+        "average_rating": 5,
+        "latitude": 37.170918,
+        "longitude": -3.605833
+      },
+      "horario": {
+        "lunes": "10:00–20:30",
+        "martes": "10:00–20:30",
+        "miercoles": "10:00–20:30",
+        "jueves": "10:00–20:30",
+        "viernes": "10:00–19:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologo-en-granada-celabpsi",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "Cam. de Ronda, 82, 1ºF",
+        "url": "/psicologo/granada/granada/psicologo-en-granada-celabpsi/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "María Cabuchola",
+      "phone": null,
+      "email": "mariajesuscabuchola@icloud.com",
+      "website": "https://psicologiaymente.com/psicologos/2058266/maria-jesus-cabuchola",
+      "address": "C. Palencia,18100 Armilla,Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologiaymente",
+        "facebook": "https://www.facebook.com/psicologiaymente",
+        "twitter": "https://twitter.com/psicologiamente",
+        "linkedin": "https://www.linkedin.com/company/psicolog,https://www.linkedin.com/company/psicolog%C3%ADa-y-mente",
+        "yelp": null,
+        "youtube": "https://www.youtube.com/channel/UCcBDiOaLfansmWXXUmirexQ"
+      },
+      "google_places": {
+        "place_id": "ChIJXTrS3-D7cQ0RbFJWQG5AWKk",
+        "cid": "-6244170041079213460",
+        "category": "Psicólogo",
+        "review_count": 0,
+        "average_rating": null,
+        "latitude": 37.1418758,
+        "longitude": -3.6298538
+      },
+      "horario": {
+        "lunes": "Cerrado",
+        "martes": "10:00–18:00",
+        "miercoles": "10:00–21:00",
+        "jueves": "10:00–20:00",
+        "viernes": "11:00–17:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "maria-cabuchola",
+        "municipio": "Armilla",
+        "municipio_slug": "armilla",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18100",
+        "calle": "C. Palencia",
+        "url": "/psicologo/granada/armilla/maria-cabuchola/",
+        "schema_rating": false
+      }
+    },
+    {
+      "name": "Psicólogo en Granada - Pedro Núñez Psicología",
+      "phone": "636 93 74 13",
+      "email": "pedro.nu.el@gmail.com",
+      "website": "https://www.xn--pedronuezpsicologia-13b.es/",
+      "address": "C. Galileo, 2,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJBSKuZVMpQg0Rx_qxWXLh2IE",
+        "cid": "-9090267966599988537",
+        "category": "Psicólogo",
+        "review_count": 32,
+        "average_rating": 5,
+        "latitude": 37.1675917,
+        "longitude": -3.6038061
+      },
+      "horario": {
+        "lunes": "16:30–21:00",
+        "martes": "9:00–14:00, 16:30–21:00",
+        "miercoles": "16:30–21:00",
+        "jueves": "9:00–14:00, 16:30–21:00",
+        "viernes": "10:00–13:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologo-en-granada-pedro-nunez-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "C. Galileo, 2",
+        "url": "/psicologo/granada/granada/psicologo-en-granada-pedro-nunez-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Raíces y Alas Psicología",
+      "phone": "689 62 85 60",
+      "email": "raicesyalaspsicologos@gmail.com",
+      "website": "https://raicesyalaspsicologia.es/",
+      "address": "C. San Antón, 72, planta 6, oficina 18,Ronda,18005 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJmdBCpX39cQ0RHtyRL-RtWd8",
+        "cid": "-2352728503506314210",
+        "category": "Psicólogo",
+        "review_count": 35,
+        "average_rating": 4.9,
+        "latitude": 37.167856,
+        "longitude": -3.599019
+      },
+      "horario": {
+        "lunes": "9:00–14:00, 16:00–21:00",
+        "martes": "9:00–14:00, 16:00–21:00",
+        "miercoles": "9:00–14:00, 16:00–21:00",
+        "jueves": "9:00–14:00, 16:00–21:00",
+        "viernes": "9:00–14:00, 16:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "raices-y-alas-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. San Antón, 72, planta 6, oficina 18",
+        "url": "/psicologo/granada/granada/raices-y-alas-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Aaron Beck",
+      "phone": "958 27 08 73",
+      "email": "info@cpaaronbeck.com",
+      "website": "https://www.cpaaronbeck.com/",
+      "address": "C. Pedro Antonio de Alarcón, 60, 1ºF,Ronda,18002 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": "https://www.facebook.com/centro.psicologia.aaron.beck",
+        "twitter": "https://twitter.com/cpaaronbeck",
+        "linkedin": "https://www.linkedin.com/company/centro-de-psicologia-aaron-beck",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJI3sJmZP8cQ0RYWiyoajxXbw",
+        "cid": "-4873473515175384991",
+        "category": "Psicólogo",
+        "review_count": 83,
+        "average_rating": 4.8,
+        "latitude": 37.1750266,
+        "longitude": -3.6075726
+      },
+      "horario": {
+        "lunes": "10:00–14:00, 17:00–21:00",
+        "martes": "10:00–14:00, 17:00–21:00",
+        "miercoles": "10:00–14:00, 17:00–21:00",
+        "jueves": "10:00–14:00, 17:00–21:00",
+        "viernes": "10:00–14:00, 17:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-aaron-beck",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18002",
+        "calle": "C. Pedro Antonio de Alarcón, 60, 1ºF",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-aaron-beck/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Clínica de Psicología Myna",
+      "phone": "601 62 32 60",
+      "email": "info@clinicapsicologiamyna.com",
+      "website": "https://clinicapsicologiamyna.com/",
+      "address": "C. Primavera, 12B, 1º C,Zaidín,18006 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologiamyna",
+        "facebook": "https://www.facebook.com/PsicologiaMYNA",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJFzBn6wD9cQ0RHfExl4WimUQ",
+        "cid": "4943160760666812701",
+        "category": "Psicólogo",
+        "review_count": 57,
+        "average_rating": 5,
+        "latitude": 37.1622394,
+        "longitude": -3.5954918
+      },
+      "horario": {
+        "lunes": "10:00–13:30, 17:00–20:30",
+        "martes": "10:00–13:30, 17:00–20:30",
+        "miercoles": "10:00–13:30, 17:00–20:30",
+        "jueves": "10:00–13:30, 17:00–20:30",
+        "viernes": "10:00–13:30, 17:00–20:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "clinica-de-psicologia-myna",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "C. Primavera, 12B, 1º C",
+        "url": "/psicologo/granada/granada/clinica-de-psicologia-myna/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Trainerclub - Psicólogos en Granada",
+      "phone": "611 15 44 05",
+      "email": "info@trainerclub.es",
+      "website": "https://www.trainerclub.es/psicologo-en-granada/",
+      "address": "C.C. Neptuno, Planta 1, Local 24,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/trainerclub",
+        "facebook": "https://www.facebook.com/Trainerclub.Granada",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": "https://www.youtube.com/channel/UC51ZXjGI308IPW469L7pwWA"
+      },
+      "google_places": {
+        "place_id": "ChIJQ41IAvL9cQ0RAo_XtdQKg0k",
+        "cid": "5297089495417982722",
+        "category": "Psicólogo",
+        "review_count": 33,
+        "average_rating": 4.9,
+        "latitude": 37.1680866,
+        "longitude": -3.6078399
+      },
+      "horario": {
+        "lunes": null,
+        "martes": null,
+        "miercoles": null,
+        "jueves": null,
+        "viernes": null,
+        "sabado": null,
+        "domingo": null
+      },
+      "_meta": {
+        "slug": "trainerclub-psicologos-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "C.C. Neptuno, Planta 1, Local 24",
+        "url": "/psicologo/granada/granada/trainerclub-psicologos-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Menttal - Psicólogos y Sexólogos",
+      "phone": "676 71 39 66",
+      "email": "info@psicologosysexologos.com",
+      "website": "https://psicologosysexologos.com/",
+      "address": "C. Pedro Antonio de Alarcón, 81, 5ºA,Ronda,18003 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/proactivagr,https://www.instagram.com/menttalpsicologosysexologos,https://www.instagram.com/p/DA8hHvtoKH9",
+        "facebook": "https://www.facebook.com/menttalpsicologos,https://www.facebook.com/plugins",
+        "twitter": "https://twitter.com/ProactivaGR,https://twitter.com/menttalpsico",
+        "linkedin": "https://linkedin.com/company/menttal-psic,https://linkedin.com/company/menttal-psic%C3%B3logos-y-sex%C3%B3logos",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJZ3uuGpP8cQ0RrM9e-py1Gj4",
+        "cid": "4475088865566052268",
+        "category": "Psicólogo",
+        "review_count": 29,
+        "average_rating": 5,
+        "latitude": 37.176252,
+        "longitude": -3.608515
+      },
+      "horario": {
+        "lunes": "9:00–14:00, 16:30–21:00",
+        "martes": "9:00–14:00, 16:30–21:00",
+        "miercoles": "9:00–14:00, 16:30–21:00",
+        "jueves": "9:00–14:00, 16:30–21:00",
+        "viernes": "9:00–14:00, 16:30–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "menttal-psicologos-y-sexologos",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18003",
+        "calle": "C. Pedro Antonio de Alarcón, 81, 5ºA",
+        "url": "/psicologo/granada/granada/menttal-psicologos-y-sexologos/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Mari Paz Moreno Psicología",
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": "C. Fontiveros, 46,Zaidín,18008 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJKxFfbe_8cQ0R84Na8kzrWyo",
+        "cid": "3052291888189703155",
+        "category": "Psicólogo",
+        "review_count": 11,
+        "average_rating": 5,
+        "latitude": 37.160983,
+        "longitude": -3.593629
+      },
+      "horario": {
+        "lunes": null,
+        "martes": null,
+        "miercoles": null,
+        "jueves": null,
+        "viernes": null,
+        "sabado": null,
+        "domingo": null
+      },
+      "_meta": {
+        "slug": "mari-paz-moreno-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18008",
+        "calle": "C. Fontiveros, 46",
+        "url": "/psicologo/granada/granada/mari-paz-moreno-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Isabel Fernández Ramírez | Psicóloga en Granada",
+      "phone": "684 31 80 53",
+      "email": "info@isabelfernandezpsicologa.com",
+      "website": "https://isabelfernandezpsicologa.com/",
+      "address": "Pl. del Campillo, n2, 6ºI,Centro,18009 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/ifernandezpsicologa",
+        "facebook": "https://www.facebook.com/isabelfernandezpsicologa,https://www.facebook.com/Psic,https://www.facebook.com/Psic%C3%B3loga-Isabel-Fern%C3%A1ndez-Ram%C3%ADrez-102509691531738",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ7f_8nA_9cQ0RTL2G7Vs3lEc",
+        "cid": "5157808341212642636",
+        "category": "Psicólogo",
+        "review_count": 114,
+        "average_rating": 5,
+        "latitude": 37.1725386,
+        "longitude": -3.5983831
+      },
+      "horario": {
+        "lunes": "9:00–14:00, 16:00–21:00",
+        "martes": "9:00–14:00, 16:00–21:00",
+        "miercoles": "9:00–14:00, 16:00–21:00",
+        "jueves": "9:00–14:00, 16:00–21:00",
+        "viernes": "9:00–14:00, 16:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "isabel-fernandez-ramirez-psicologa-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18009",
+        "calle": "Pl. del Campillo, n2, 6ºI",
+        "url": "/psicologo/granada/granada/isabel-fernandez-ramirez-psicologa-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Paco Ruiz Molina Psicología",
+      "phone": "655 04 90 13",
+      "email": "coach@pacoruizcoach.es",
+      "website": "http://www.pacoruizpsicologo.es/",
+      "address": "Av. de Barcelona, 22, 7ºA,Zaidín,18006 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/pacoruizcoach",
+        "facebook": "https://www.facebook.com/pacoruizcoach",
+        "twitter": "https://x.com/PacoRuizMolina,https://twitter.com/PacoRuizMolina",
+        "linkedin": "https://www.linkedin.com/in/coach-granada-pacoruiz,https://www.linkedin.com/in/fjrmcoach",
+        "yelp": null,
+        "youtube": "https://www.youtube.com/channel/UCYPEs5utEAa4wlBUzZlc6NQ"
+      },
+      "google_places": {
+        "place_id": "ChIJrzlCN979cQ0RNSvJ96IZQAc",
+        "cid": "522445744507530037",
+        "category": "Psicólogo",
+        "review_count": 23,
+        "average_rating": 5,
+        "latitude": 37.1608287,
+        "longitude": -3.6013737
+      },
+      "horario": {
+        "lunes": "9:30–14:00, 16:00–21:30",
+        "martes": "10:00–14:00, 16:00–21:30",
+        "miercoles": "10:00–14:00, 16:00–21:30",
+        "jueves": "10:00–14:00, 16:00–21:30",
+        "viernes": "10:00–14:00, 16:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "paco-ruiz-molina-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "Av. de Barcelona, 22, 7ºA",
+        "url": "/psicologo/granada/granada/paco-ruiz-molina-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicologia Granada - El Àrbol - Salud y Bienestar",
+      "phone": "618 46 94 64",
+      "email": "info@elarbolpsicologia.es",
+      "website": "https://elarbolpsicologia.es/",
+      "address": "C. Gobernador Pedro Temboury, Nº12,Norte,18013 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/elarbolsaludybienestar",
+        "facebook": "https://www.facebook.com/elarbolsaludybienestar",
+        "twitter": null,
+        "linkedin": "https://es.linkedin.com/in/desir%C3%A9e-castro-del-%C3%A1rbol-38267b68",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJGy-i_QL9cQ0RgKILq8at6Zw",
+        "cid": "-7139984665434414464",
+        "category": "Psicólogo",
+        "review_count": 30,
+        "average_rating": 5,
+        "latitude": 37.2026501,
+        "longitude": -3.6124043
+      },
+      "horario": {
+        "lunes": "12:00–19:30",
+        "martes": "8:30–19:30",
+        "miercoles": "8:30–19:30",
+        "jueves": "8:30–19:30",
+        "viernes": "Cerrado",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologia-granada-el-arbol-salud-y-bienestar",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18013",
+        "calle": "C. Gobernador Pedro Temboury, Nº12",
+        "url": "/psicologo/granada/granada/psicologia-granada-el-arbol-salud-y-bienestar/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología | Ana Piñar",
+      "phone": "639 16 08 24",
+      "email": null,
+      "website": "https://anapinarpsicologa.com/",
+      "address": "C. Acera del Darro, 92, 5º E,Centro,18005 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": "https://www.facebook.com/Anaps.Psicologa",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJJQ5iF738cQ0RbzANbu0mNHg",
+        "cid": "8661590784535769199",
+        "category": "Psicólogo",
+        "review_count": 35,
+        "average_rating": 4.9,
+        "latitude": 37.1692215,
+        "longitude": -3.5971855
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–15:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-ana-pinar",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. Acera del Darro, 92, 5º E",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-ana-pinar/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Terapia y Orientación Psicológica",
+      "phone": "958 18 30 96",
+      "email": "ctop.granada@gmail.com",
+      "website": "https://www.centro-de-terapia-y-orientacion-psicologica-granada.es/",
+      "address": "C. Sos del Rey Católico, 14,Genil,18006 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJw40DlKT8cQ0RGJQooTfzquA",
+        "cid": "-2257724842920340456",
+        "category": "Psicólogo",
+        "review_count": 1,
+        "average_rating": 5,
+        "latitude": 37.166284,
+        "longitude": -3.59549
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-terapia-y-orientacion-psicologica",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "C. Sos del Rey Católico, 14",
+        "url": "/psicologo/granada/granada/centro-de-terapia-y-orientacion-psicologica/",
+        "schema_rating": false
+      }
+    },
+    {
+      "name": "PS Centro Sanitario de Psicologia",
+      "phone": "958 81 85 71",
+      "email": null,
+      "website": "http://www.pspsicologos.com/",
+      "address": "Av. de Barcelona, 15,Zaidín,18006 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJv9i7X5_8cQ0RzjocympFqWQ",
+        "cid": "7253404999816592078",
+        "category": "Psicólogo",
+        "review_count": 2,
+        "average_rating": 5,
+        "latitude": 37.1609779,
+        "longitude": -3.6010852
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "9:00–14:00",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "ps-centro-sanitario-de-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "Av. de Barcelona, 15",
+        "url": "/psicologo/granada/granada/ps-centro-sanitario-de-psicologia/",
+        "schema_rating": false
+      }
+    },
+    {
+      "name": "Psicología Hipnosis",
+      "phone": "617 96 62 88",
+      "email": "adamsonpsicologia@gmail.com",
+      "website": "https://www.adamsonpsicologia.com/",
+      "address": "C. Alminares del Genil, 2, Centro,Genil,18006 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJAeFSoLz8cQ0RIpESWLPON_k",
+        "cid": "-488694764874329822",
+        "category": "Psicólogo",
+        "review_count": 79,
+        "average_rating": 4.8,
+        "latitude": 37.1670022,
+        "longitude": -3.5958967
+      },
+      "horario": {
+        "lunes": "10:00–22:30",
+        "martes": "10:00–22:30",
+        "miercoles": "10:00–22:30",
+        "jueves": "10:00–22:00",
+        "viernes": "10:00–14:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologia-hipnosis",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "C. Alminares del Genil, 2, Centro",
+        "url": "/psicologo/granada/granada/psicologia-hipnosis/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "María del Mar López Medina. Psicóloga Clínica.",
+      "phone": "650 21 92 64",
+      "email": null,
+      "website": "http://www.linkedin.com/in/mariadelmarlopezmedina",
+      "address": "C. Alhóndiga, 37, 3º Izda,Centro,18001 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJScf5Nun8cQ0R2aGycjuC_M8",
+        "cid": "-3459747221888392743",
+        "category": "Psicólogo",
+        "review_count": 1,
+        "average_rating": 5,
+        "latitude": 37.1757065,
+        "longitude": -3.6016196
+      },
+      "horario": {
+        "lunes": "17:00–21:00",
+        "martes": "10:00–14:00",
+        "miercoles": "17:00–20:00",
+        "jueves": "10:00–20:00",
+        "viernes": "10:00–14:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "maria-del-mar-lopez-medina-psicologa-clinica",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18001",
+        "calle": "C. Alhóndiga, 37, 3º Izda",
+        "url": "/psicologo/granada/granada/maria-del-mar-lopez-medina-psicologa-clinica/",
+        "schema_rating": false
+      }
+    },
+    {
+      "name": "ISABEL GARCÍA ORTUÑO | PSICÓLOGA CLÍNICA",
+      "phone": "652 26 60 27",
+      "email": null,
+      "website": "https://www.isabelgarcia-ortuno.com/",
+      "address": "C. Gabriel Miró, 3, 2º E,Ronda,18003 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ-072Ys79cQ0RhUXsMRjWfIE",
+        "cid": "-9116176146299599483",
+        "category": "Psicólogo",
+        "review_count": 44,
+        "average_rating": 5,
+        "latitude": 37.1829707,
+        "longitude": -3.6132587
+      },
+      "horario": {
+        "lunes": "9:00–13:00, 16:00–20:00",
+        "martes": "9:00–13:00, 16:00–20:00",
+        "miercoles": "9:00–13:00, 16:00–20:00",
+        "jueves": "9:00–13:00, 16:00–20:00",
+        "viernes": "9:00–13:00, 16:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "isabel-garcia-ortuno-psicologa-clinica",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18003",
+        "calle": "C. Gabriel Miró, 3, 2º E",
+        "url": "/psicologo/granada/granada/isabel-garcia-ortuno-psicologa-clinica/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Alicia Chica Psicóloga",
+      "phone": "658 10 85 38",
+      "email": null,
+      "website": "http://aliciachica.familiarmentegranada.com/",
+      "address": "C. Fontiveros, 46,Zaidín,18008 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/",
+        "facebook": "https://www.facebook.com/",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJxaDjBaL9cQ0R29sKYrve51Y",
+        "cid": "6262218703267093467",
+        "category": "Psicólogo",
+        "review_count": 49,
+        "average_rating": 5,
+        "latitude": 37.1610631,
+        "longitude": -3.593615
+      },
+      "horario": {
+        "lunes": null,
+        "martes": null,
+        "miercoles": null,
+        "jueves": null,
+        "viernes": null,
+        "sabado": null,
+        "domingo": null
+      },
+      "_meta": {
+        "slug": "alicia-chica-psicologa",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18008",
+        "calle": "C. Fontiveros, 46",
+        "url": "/psicologo/granada/granada/alicia-chica-psicologa/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro Andaluz de Psicoterapia",
+      "phone": "958 13 01 05",
+      "email": null,
+      "website": "http://www.centroandaluzdepsicoterapia.com/",
+      "address": "C. Cerro de los Machos, 2,Genil,18008 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJSdZo16v8cQ0RwtsuWnvvyxI",
+        "cid": "1354439426028002242",
+        "category": "Psicólogo",
+        "review_count": 4,
+        "average_rating": 5,
+        "latitude": 37.1611619,
+        "longitude": -3.5863115
+      },
+      "horario": {
+        "lunes": "16:00–20:00",
+        "martes": "16:00–20:00",
+        "miercoles": "16:00–20:00",
+        "jueves": "16:00–20:00",
+        "viernes": "16:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-andaluz-de-psicoterapia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18008",
+        "calle": "C. Cerro de los Machos, 2",
+        "url": "/psicologo/granada/granada/centro-andaluz-de-psicoterapia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Pilar Diaz Gabinete de Psicologia",
+      "phone": "671 96 40 11",
+      "email": "info@pilardiazgpsicologia.es",
+      "website": "https://pilardiazgpsicologia.es/",
+      "address": "C. Ribera del Genil, 1, 3º I,Centro,18005 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ17jXxHz9cQ0Ro_ogJB10HZ4",
+        "cid": "-7053353772883314013",
+        "category": "Psicólogo",
+        "review_count": 11,
+        "average_rating": 4.6,
+        "latitude": 37.1680479,
+        "longitude": -3.5968649
+      },
+      "horario": {
+        "lunes": "9:00–22:00",
+        "martes": "9:00–22:00",
+        "miercoles": "9:00–22:00",
+        "jueves": "9:00–22:00",
+        "viernes": "9:00–22:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "pilar-diaz-gabinete-de-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. Ribera del Genil, 1, 3º I",
+        "url": "/psicologo/granada/granada/pilar-diaz-gabinete-de-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Initia Psicología y Psicoterapia",
+      "phone": "635 69 52 91",
+      "email": "initiapsicologia@gmail.com",
+      "website": "https://www.initiapsicologia.com/",
+      "address": "Arabial, 64,Ronda,18003 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/initiapsico",
+        "facebook": "https://www.facebook.com/initiapsicologia",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJiUR-Czr9cQ0R8soVgasdwF4",
+        "cid": "6827489657535974130",
+        "category": "Psicólogo",
+        "review_count": 9,
+        "average_rating": 4.6,
+        "latitude": 37.1749397,
+        "longitude": -3.6101732
+      },
+      "horario": {
+        "lunes": "10:00–14:00, 17:00–21:00",
+        "martes": "10:00–14:00, 17:00–21:00",
+        "miercoles": "10:00–14:00, 17:00–21:00",
+        "jueves": "10:00–14:00, 17:00–21:00",
+        "viernes": "10:00–14:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "initia-psicologia-y-psicoterapia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18003",
+        "calle": "Arabial, 64",
+        "url": "/psicologo/granada/granada/initia-psicologia-y-psicoterapia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicólogos Granada. Centro en positivo",
+      "phone": "658 76 51 23",
+      "email": "info@en-positivo.net",
+      "website": "https://en-positivo.net/",
+      "address": "C. Gloria Mas, 2, Edificio Oriente, Portal 2, 1ºC,Norte,18014 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/enpositivopsicologia",
+        "facebook": "https://www.facebook.com/enpositivogranada",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ-0-jGpP8cQ0RGen_1bGe04o",
+        "cid": "-8443230389752829671",
+        "category": "Psicólogo",
+        "review_count": 85,
+        "average_rating": 4.9,
+        "latitude": 37.1972603,
+        "longitude": -3.6160505
+      },
+      "horario": {
+        "lunes": "10:00–14:00, 17:00–21:00",
+        "martes": "10:00–14:00, 17:00–21:00",
+        "miercoles": "10:00–14:00, 17:00–21:00",
+        "jueves": "10:00–14:00, 17:00–21:00",
+        "viernes": "10:00–14:00, 17:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologos-granada-centro-en-positivo",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18014",
+        "calle": "C. Gloria Mas, 2, Edificio Oriente, Portal 2, 1ºC",
+        "url": "/psicologo/granada/granada/psicologos-granada-centro-en-positivo/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicóloga Granada Lidia Arredondo",
+      "phone": "601 50 96 52",
+      "email": "lidiaarredondopsicologia@gmail.com",
+      "website": "https://lidiapsicologia.es/",
+      "address": "Calle San Juan de Dios, 49, 3º derecha,Centro,18001 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/lidiaqpsicologia",
+        "facebook": "https://www.facebook.com/psicologialidiaarredondo",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/in/lidia-arredondo-quiles-a5872597",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJldyomzr9cQ0RISa_7uETalY",
+        "cid": "6226811295887205921",
+        "category": "Psicólogo",
+        "review_count": 90,
+        "average_rating": 5,
+        "latitude": 37.1823709,
+        "longitude": -3.6024954
+      },
+      "horario": {
+        "lunes": "10:00–21:00",
+        "martes": "10:00–21:00",
+        "miercoles": "10:00–21:00",
+        "jueves": "10:00–21:00",
+        "viernes": "10:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologa-granada-lidia-arredondo",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18001",
+        "calle": "Calle San Juan de Dios, 49, 3º derecha",
+        "url": "/psicologo/granada/granada/psicologa-granada-lidia-arredondo/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Clínica Nicolás Moreno",
+      "phone": "958 26 26 26",
+      "email": null,
+      "website": "http://www.nicolasmorenopsicologo.com/",
+      "address": "C. José Recuerda, 4, 1 º D,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": "https://www.facebook.com/plugins",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ67h_1pP8cQ0R2av-cGjOx0c",
+        "cid": "5172329645025962969",
+        "category": "Psicólogo",
+        "review_count": 13,
+        "average_rating": 4.9,
+        "latitude": 37.173038,
+        "longitude": -3.608794
+      },
+      "horario": {
+        "lunes": "10:00–13:00, 18:00–21:00",
+        "martes": "10:00–13:00, 18:00–21:00",
+        "miercoles": "10:00–13:00, 18:00–21:00",
+        "jueves": "10:00–13:00, 18:00–21:00",
+        "viernes": "10:00–13:00, 18:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-clinica-nicolas-moreno",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "C. José Recuerda, 4, 1 º D",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-clinica-nicolas-moreno/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Plenum Psicología y Mindfulness",
+      "phone": "611 42 87 20",
+      "email": "centroplenum@gmail.com",
+      "website": "http://centroplenum.es/",
+      "address": "Pl. de Carretas, 5, 1ºB,Centro,18009 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/plenum_mind",
+        "facebook": "https://es-es.facebook.com/plenumpsicologia",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": "https://www.youtube.com/channel/UC0SdlJRorayizu-Vj7lnLoA"
+      },
+      "google_places": {
+        "place_id": "ChIJffTF5Lr8cQ0RMUDlPk_V_Is",
+        "cid": "-8359572271972138959",
+        "category": "Psicoterapeuta",
+        "review_count": 31,
+        "average_rating": 4.9,
+        "latitude": 37.1699786,
+        "longitude": -3.5934167
+      },
+      "horario": {
+        "lunes": "9:00–14:00, 16:30–21:00",
+        "martes": "9:00–14:00, 16:30–21:00",
+        "miercoles": "9:00–14:00, 16:30–21:00",
+        "jueves": "9:00–14:00, 16:30–21:00",
+        "viernes": "9:00–14:00, 16:30–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "plenum-psicologia-y-mindfulness",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18009",
+        "calle": "Pl. de Carretas, 5, 1ºB",
+        "url": "/psicologo/granada/granada/plenum-psicologia-y-mindfulness/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "PSICOVEGA - Psicóloga en Granada, Cúllar Vega",
+      "phone": "649 08 82 73",
+      "email": "info@psicovega.com",
+      "website": "https://psicovega.com/",
+      "address": "Av. Andalucía, 9, bajo,18195 Cúllar Vega,Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": "https://www.facebook.com/terapiapsicovega",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJUee4k2f5cQ0RV84uFFQJAkM",
+        "cid": "4828432007215107671",
+        "category": "Psicólogo",
+        "review_count": 40,
+        "average_rating": 4.8,
+        "latitude": 37.1520044,
+        "longitude": -3.6678654
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicovega-psicologa-en-granada-cullar-vega",
+        "municipio": "Cúllar Vega",
+        "municipio_slug": "cullar-vega",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18195",
+        "calle": "Av. Andalucía, 9, bajo",
+        "url": "/psicologo/granada/cullar-vega/psicovega-psicologa-en-granada-cullar-vega/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Alejandra Martín Psicólogo Sanitario, Psicólogo Deportivo, y Psicólogo Forense",
+      "phone": "658 08 58 67",
+      "email": "martinblanes@hotmail.com",
+      "website": "https://www.alejandramartinpsicologa.com/?utm_source=google&utm_medium=business&utm_campaign=maps",
+      "address": "C. Verónica de la Virgen, 15,Centro,18005 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/alejandramartinpsicologa",
+        "facebook": "https://www.facebook.com/AlejandraMartinPsicologa",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": "https://youtube.com/channel/UCgBh4SBzlk-XHPYeuaVnE0w"
+      },
+      "google_places": {
+        "place_id": "ChIJm3Fjo539cQ0RRc_lO5JbVo8",
+        "cid": "-8118200594660470971",
+        "category": "Psicólogo",
+        "review_count": 17,
+        "average_rating": 5,
+        "latitude": 37.1698609,
+        "longitude": -3.5993648
+      },
+      "horario": {
+        "lunes": "10:00–20:00",
+        "martes": "10:00–20:00",
+        "miercoles": "10:00–20:00",
+        "jueves": "10:00–20:00",
+        "viernes": "10:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "alejandra-martin-psicologo-sanitario-psicologo-deportivo-y-psicologo-forense",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. Verónica de la Virgen, 15",
+        "url": "/psicologo/granada/granada/alejandra-martin-psicologo-sanitario-psicologo-deportivo-y-psicologo-forense/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicólogos Granada Ronda Salud",
+      "phone": "958 08 08 48",
+      "email": "contacto@rondasalud.com",
+      "website": "http://www.rondasalud.com/",
+      "address": "C. Cristo de Medinaceli, 6,Ronda,18002 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/rondasaludpsicologos",
+        "facebook": "https://www.facebook.com/gruporondasalud.psicologos",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/company/9183398",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJwzLF7pb8cQ0RLieG9aMiQ-M",
+        "cid": "-2070773316066072786",
+        "category": "Psicólogo",
+        "review_count": 23,
+        "average_rating": 3.6,
+        "latitude": 37.1711957,
+        "longitude": -3.6049556
+      },
+      "horario": {
+        "lunes": "9:00–13:30, 17:00–20:00",
+        "martes": "9:00–13:30, 17:00–20:00",
+        "miercoles": "9:00–13:30, 17:00–20:00",
+        "jueves": "9:00–13:30, 17:00–20:00",
+        "viernes": "9:00–14:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologos-granada-ronda-salud",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18002",
+        "calle": "C. Cristo de Medinaceli, 6",
+        "url": "/psicologo/granada/granada/psicologos-granada-ronda-salud/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Bienestar Global Psicologa latina en España",
+      "phone": "672 55 28 46",
+      "email": null,
+      "website": null,
+      "address": "C. José Manuel Jiménez Diez,Zaidín,18007 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJicRxtDz7cQ0RkAd-PFEsCcg",
+        "cid": "-4032643263914702960",
+        "category": "Psicólogo",
+        "review_count": 0,
+        "average_rating": null,
+        "latitude": 37.1520572,
+        "longitude": -3.5934302
+      },
+      "horario": {
+        "lunes": "10:00–20:00",
+        "martes": "10:00–20:00",
+        "miercoles": "10:00–20:00",
+        "jueves": "10:00–20:00",
+        "viernes": "10:00–20:00",
+        "sabado": "16:00–18:00",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "bienestar-global-psicologa-latina-en-espana",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18007",
+        "calle": "C. José Manuel Jiménez Diez",
+        "url": "/psicologo/granada/granada/bienestar-global-psicologa-latina-en-espana/",
+        "schema_rating": false
+      }
+    },
+    {
+      "name": "Estar Contigo Terapia - Psicólogos en Granada y Online",
+      "phone": "958 49 10 42",
+      "email": "info@estarcontigoterapia.es",
+      "website": "https://www.estarcontigoterapia.es/psicologos-en-granada/",
+      "address": "C. Santo Tomás de Villanueva, 3,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/estarcontigo.terapia",
+        "facebook": "https://www.facebook.com/EstarContigoTerapia",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": "https://www.youtube.com/channel/UCajLg4v44gWaZAHtV6hwkoA"
+      },
+      "google_places": {
+        "place_id": "ChIJIR69HzL9cQ0Rl4v4SKC68nU",
+        "cid": "8499060644383329175",
+        "category": "Psicólogo",
+        "review_count": 198,
+        "average_rating": 4.8,
+        "latitude": 37.1795487,
+        "longitude": -3.6134301
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "estar-contigo-terapia-psicologos-en-granada-y-online",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "C. Santo Tomás de Villanueva, 3",
+        "url": "/psicologo/granada/granada/estar-contigo-terapia-psicologos-en-granada-y-online/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Caos y Calma Centro de Psicología en Granada - Churriana de la Vega",
+      "phone": "641 52 79 28",
+      "email": "info@caosycalma.com",
+      "website": "https://www.caosycalma.com/",
+      "address": "Ctra. de Alhama, 16,18194 Churriana de la Vega,Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/caosycalma.psicologia",
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJX_u00Kz7cQ0RYQh1Wll86ZE",
+        "cid": "-7932672545424865183",
+        "category": "Psicólogo",
+        "review_count": 66,
+        "average_rating": 5,
+        "latitude": 37.142547,
+        "longitude": -3.6341381
+      },
+      "horario": {
+        "lunes": "10:00–14:00, 16:00–21:00",
+        "martes": "10:00–14:00, 16:00–21:00",
+        "miercoles": "10:00–14:00, 16:00–21:00",
+        "jueves": "10:00–14:00, 16:00–21:00",
+        "viernes": "10:00–14:00, 16:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "caos-y-calma-centro-de-psicologia-en-granada-churriana-de-la-vega",
+        "municipio": "Churriana de la Vega",
+        "municipio_slug": "churriana-de-la-vega",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18194",
+        "calle": "Ctra. de Alhama, 16",
+        "url": "/psicologo/granada/churriana-de-la-vega/caos-y-calma-centro-de-psicologia-en-granada-churriana-de-la-vega/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Águice Psicología",
+      "phone": "628 65 95 42",
+      "email": "arcepsicologo@gmail.com",
+      "website": "https://aguicepsicologia.com/",
+      "address": "C. Alminares del Genil, 2, 1ºC,Genil,18006 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJVWdIu8X9cQ0RbRsSSKv-0Ck",
+        "cid": "3013188162312870765",
+        "category": "Psicólogo",
+        "review_count": 85,
+        "average_rating": 5,
+        "latitude": 37.1670022,
+        "longitude": -3.5958967
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "aguice-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "C. Alminares del Genil, 2, 1ºC",
+        "url": "/psicologo/granada/granada/aguice-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Psicopaye | Psicóloga en Granada",
+      "phone": "687 18 34 97",
+      "email": "contacto@psicopaye.com",
+      "website": "https://www.psicopaye.com/",
+      "address": "Pl. del Campillo, 2, 1A,Centro,18009 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicopaye_,https://www.instagram.com/",
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJg0ClAmH9cQ0Rl6qhbETjT7U",
+        "cid": "-5381833146664637801",
+        "category": "Psicólogo",
+        "review_count": 58,
+        "average_rating": 5,
+        "latitude": 37.1726483,
+        "longitude": -3.5983954
+      },
+      "horario": {
+        "lunes": "8:30–21:00",
+        "martes": "8:30–21:00",
+        "miercoles": "8:30–21:00",
+        "jueves": "8:30–21:00",
+        "viernes": "8:30–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-psicopaye-psicologa-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18009",
+        "calle": "Pl. del Campillo, 2, 1A",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-psicopaye-psicologa-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Psicología - Francisco Miguel Justicia León",
+      "phone": "615 74 51 27",
+      "email": "franciscomiguelpsicologia@gmail.com",
+      "website": "https://sites.google.com/view/piscologiafranciscomiguel/inicio?authuser=3",
+      "address": "C. Abén Humeya, 21, 1º izquierda,Ronda,18005 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJH-yY_t39cQ0R5MshxdlAd7I",
+        "cid": "-5586925508670403612",
+        "category": "Psicólogo",
+        "review_count": 31,
+        "average_rating": 5,
+        "latitude": 37.1687672,
+        "longitude": -3.600273
+      },
+      "horario": {
+        "lunes": "9:00–20:00",
+        "martes": "9:00–20:00",
+        "miercoles": "9:00–20:00",
+        "jueves": "9:00–20:00",
+        "viernes": "9:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "psicologia-francisco-miguel-justicia-leon",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. Abén Humeya, 21, 1º izquierda",
+        "url": "/psicologo/granada/granada/psicologia-francisco-miguel-justicia-leon/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro Buena Psique",
+      "phone": "658 09 34 11",
+      "email": "centrobuenapsique@gmail.com",
+      "website": "http://centrobuenapsique.com/",
+      "address": "Sta. Cecilia, 28,18194 Churriana de la Vega,Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": "https://x.com/bolt,https://x.com/suricate",
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJkVrNzTIRGCURNowiEUHz8SU",
+        "cid": "2734233909576502326",
+        "category": "Psicólogo",
+        "review_count": 10,
+        "average_rating": 5,
+        "latitude": 37.144519,
+        "longitude": -3.6435274
+      },
+      "horario": {
+        "lunes": "9:30–13:30, 16:00–21:00",
+        "martes": "16:00–21:00",
+        "miercoles": "16:00–21:00",
+        "jueves": "16:00–21:00",
+        "viernes": "16:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-buena-psique",
+        "municipio": "Churriana de la Vega",
+        "municipio_slug": "churriana-de-la-vega",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18194",
+        "calle": "Sta. Cecilia, 28",
+        "url": "/psicologo/granada/churriana-de-la-vega/centro-buena-psique/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Antonio Mata Psicología - Psicólogo en Granada - Centro de psicología clínica",
+      "phone": "614 32 19 42",
+      "email": "centro@antoniomatapsicologia.com",
+      "website": "https://antoniomatapsicologia.com/",
+      "address": "Cam. de Ronda, 105, 1º A,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/antoniomatapsicologia,https://www.instagram.com/antoniomatapsicologia?hl=es",
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ-xfdgRD9cQ0RNW5WUUcl7yo",
+        "cid": "3093732457264344629",
+        "category": "Psicólogo",
+        "review_count": 74,
+        "average_rating": 5,
+        "latitude": 37.1759244,
+        "longitude": -3.6097557
+      },
+      "horario": {
+        "lunes": "10:00–20:30",
+        "martes": "10:00–20:30",
+        "miercoles": "10:00–20:30",
+        "jueves": "10:00–20:30",
+        "viernes": "10:00–20:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "antonio-mata-psicologia-psicologo-en-granada-centro-de-psicologia-clinica",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "Cam. de Ronda, 105, 1º A",
+        "url": "/psicologo/granada/granada/antonio-mata-psicologia-psicologo-en-granada-centro-de-psicologia-clinica/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Lirio Psicóloga Profesional Granada",
+      "phone": "676 62 37 55",
+      "email": "info@liriopsicologia.com",
+      "website": "https://www.liriopsicologia.com/",
+      "address": "Calle Prof. Agustín Escribano, 18, local 13,Ronda,18004 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/lirio_psicologia",
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJL7kPgs79cQ0RdeCqOrInfMY",
+        "cid": "-4144393910645759883",
+        "category": "Psicólogo",
+        "review_count": 14,
+        "average_rating": 5,
+        "latitude": 37.1646282,
+        "longitude": -3.607614
+      },
+      "horario": {
+        "lunes": "10:00–20:00",
+        "martes": "10:00–20:00",
+        "miercoles": "10:00–20:00",
+        "jueves": "10:00–20:00",
+        "viernes": "10:00–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "lirio-psicologa-profesional-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18004",
+        "calle": "Calle Prof. Agustín Escribano, 18, local 13",
+        "url": "/psicologo/granada/granada/lirio-psicologa-profesional-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Faro Psicología - Psicólogo en Granada",
+      "phone": "686 81 54 80",
+      "email": "david@faropsicologia.es",
+      "website": "https://faropsicologia.es/",
+      "address": "C. Pedro Antonio de Alarcón, 34, Planta 1 - Oficina 2,Ronda,18002 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJrWOAkEIfeAgRa9Zww9gI_Ug",
+        "cid": "5259369666923517547",
+        "category": "Psicólogo",
+        "review_count": 20,
+        "average_rating": 5,
+        "latitude": 37.1721482,
+        "longitude": -3.6058259
+      },
+      "horario": {
+        "lunes": "8:30–13:00",
+        "martes": "8:30–13:00",
+        "miercoles": "16:30–21:00",
+        "jueves": "16:30–21:00",
+        "viernes": "8:30–13:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "faro-psicologia-psicologo-en-granada",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18002",
+        "calle": "C. Pedro Antonio de Alarcón, 34, Planta 1 - Oficina 2",
+        "url": "/psicologo/granada/granada/faro-psicologia-psicologo-en-granada/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "FamiliarMente Psicología y Fisioterapia",
+      "phone": "661 17 70 93",
+      "email": null,
+      "website": "http://www.familiarmentegranada.com/",
+      "address": "C. Fontiveros, 46,Zaidín,18008 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ__-rXqb8cQ0RAMD68xGIwPc",
+        "cid": "-594325540123787264",
+        "category": "Psicólogo",
+        "review_count": 161,
+        "average_rating": 5,
+        "latitude": 37.1611467,
+        "longitude": -3.5934789
+      },
+      "horario": {
+        "lunes": "9:00–22:00",
+        "martes": "9:00–22:00",
+        "miercoles": "9:00–22:00",
+        "jueves": "9:00–22:00",
+        "viernes": "9:00–22:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "familiarmente-psicologia-y-fisioterapia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18008",
+        "calle": "C. Fontiveros, 46",
+        "url": "/psicologo/granada/granada/familiarmente-psicologia-y-fisioterapia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Promethea",
+      "phone": "623 15 82 99",
+      "email": "info@centropromethea.com",
+      "website": "https://www.centropromethea.com/",
+      "address": "C. Alhóndiga, 27, 3º,Centro,18001 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/promethea_psicologia,https://www.instagram.com/promethea_psicologia?hl=es",
+        "facebook": "https://www.facebook.com/Centro-de-Psicolog,https://www.facebook.com/prometheapsicologia,https://www.facebook.com/Centro-de-Psicolog%C3%ADa-Promethea-516847895509272?modal=admin_todo_tour",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/company/centro-de-psicolog,https://www.linkedin.com/company/centro-de-psicolog%C3%ADa-promethea",
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJmTWciXn9cQ0RPNP5KnLUAhU",
+        "cid": "1514006011562283836",
+        "category": "Psicólogo",
+        "review_count": 78,
+        "average_rating": 4.9,
+        "latitude": 37.1749046,
+        "longitude": -3.6013262
+      },
+      "horario": {
+        "lunes": "9:00–21:00",
+        "martes": "9:00–21:00",
+        "miercoles": "9:00–21:00",
+        "jueves": "9:00–21:00",
+        "viernes": "9:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-promethea",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18001",
+        "calle": "C. Alhóndiga, 27, 3º",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-promethea/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Positive Mental Training",
+      "phone": "692 63 70 53",
+      "email": "info@positivementaltraining.es",
+      "website": "http://www.positivementaltraining.es/",
+      "address": "C. Conde Cifuentes, 37,Ronda,18005 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/positivementaltraining",
+        "facebook": "https://www.facebook.com/centropositivementaltraining",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJCc14f379cQ0RyoHdQCr0I6g",
+        "cid": "-6330948188838723126",
+        "category": "Psicólogo",
+        "review_count": 28,
+        "average_rating": 4.9,
+        "latitude": 37.1695545,
+        "longitude": -3.6029081
+      },
+      "horario": {
+        "lunes": "9:00–13:30, 16:00–21:00",
+        "martes": "9:00–13:30, 16:00–21:00",
+        "miercoles": "9:00–13:30, 16:00–21:00",
+        "jueves": "9:00–13:30, 16:00–21:00",
+        "viernes": "9:00–13:30, 16:00–21:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "positive-mental-training",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. Conde Cifuentes, 37",
+        "url": "/psicologo/granada/granada/positive-mental-training/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Clínica de Psicologia y Fisioterapia en Granada Soluciona",
+      "phone": "629 27 20 92",
+      "email": "vgespinar@gmail.com",
+      "website": "http://www.psicologiayfisioterapia.com/",
+      "address": "Camino de la Zubia, 27, 2° C EDIFICIO,Zaidín,18006 HÍPICA,Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/soluciona_psicologia_y_fisio,https://www.instagram.com/",
+        "facebook": "https://www.facebook.com/solucionapsicologia,https://www.facebook.com/",
+        "twitter": "https://twitter.com/,https://twitter.com/solucionapsicol,https://twitter.com/solucionapsicologia",
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJuUspNKH8cQ0R80OgKC40KCE",
+        "cid": "2389216975174779891",
+        "category": "Psicólogo",
+        "review_count": 30,
+        "average_rating": 5,
+        "latitude": 37.1614659,
+        "longitude": -3.5963738
+      },
+      "horario": {
+        "lunes": "9:30–21:00",
+        "martes": "9:30–21:00",
+        "miercoles": "9:30–21:00",
+        "jueves": "9:30–21:00",
+        "viernes": "9:30–20:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "clinica-de-psicologia-y-fisioterapia-en-granada-soluciona",
+        "municipio": "HÍPICA",
+        "municipio_slug": "hipica",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18006",
+        "calle": "Camino de la Zubia, 27, 2° C EDIFICIO",
+        "url": "/psicologo/granada/hipica/clinica-de-psicologia-y-fisioterapia-en-granada-soluciona/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Adelante Clinica de Psicología",
+      "phone": "623 00 88 67",
+      "email": null,
+      "website": "http://adelantepsicologia.es/",
+      "address": "Av. de la Ilustración, 123, 6ºE,18016 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": null,
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ_WuK44n7cQ0Rc_d_ZjsGhc4",
+        "cid": "-3565436677801379981",
+        "category": "Psicólogo",
+        "review_count": 8,
+        "average_rating": 4,
+        "latitude": 37.1493804,
+        "longitude": -3.5989934
+      },
+      "horario": {
+        "lunes": "9:30–14:00, 16:30–20:30",
+        "martes": "9:30–14:00, 16:30–20:30",
+        "miercoles": "9:30–14:00, 16:30–20:30",
+        "jueves": "9:30–14:00, 16:30–20:30",
+        "viernes": "9:30–14:00, 16:30–20:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "adelante-clinica-de-psicologia",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18016",
+        "calle": "Av. de la Ilustración, 123, 6ºE",
+        "url": "/psicologo/granada/granada/adelante-clinica-de-psicologia/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Centro de Psicología Sulayr",
+      "phone": "655 51 16 73",
+      "email": "info@psicologiasulayr.com",
+      "website": "https://www.psicologiasulayr.com/",
+      "address": "Av. de Pulianas, 26,Beiro,18011 Granada",
+      "social_media": {
+        "instagram": "https://www.instagram.com/psicologiasulayr",
+        "facebook": "https://www.facebook.com/psicologiasulayr",
+        "twitter": null,
+        "linkedin": null,
+        "yelp": null,
+        "youtube": "https://www.youtube.com/@psicologiasulayr"
+      },
+      "google_places": {
+        "place_id": "ChIJtbIttuf8cQ0Rj6V7WF87OuA",
+        "cid": "-2289452179872045681",
+        "category": "Psicólogo",
+        "review_count": 85,
+        "average_rating": 5,
+        "latitude": 37.1903432,
+        "longitude": -3.6032882
+      },
+      "horario": {
+        "lunes": "9:00–13:00, 16:00–20:00",
+        "martes": "9:00–13:00, 16:00–20:00",
+        "miercoles": "9:00–13:00, 16:00–20:00",
+        "jueves": "9:00–13:00, 16:00–20:00",
+        "viernes": "9:00–13:00",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "centro-de-psicologia-sulayr",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18011",
+        "calle": "Av. de Pulianas, 26",
+        "url": "/psicologo/granada/granada/centro-de-psicologia-sulayr/",
+        "schema_rating": true
+      }
+    },
+    {
+      "name": "Alarcón Psicólogos",
+      "phone": "958 25 89 08",
+      "email": null,
+      "website": "https://alarconpsicologos.com/",
+      "address": "C. Ribera del Genil, 21, bajo, local 3,Ronda,18005 Granada",
+      "social_media": {
+        "instagram": null,
+        "facebook": "https://www.facebook.com/alarconpsicologos,https://www.facebook.com/sharer.php?u=https%3A%2F%2Falarconpsicologos.com%2Fcontacto%2F&#038;t=Contacto",
+        "twitter": "https://twitter.com/alarconpsicogr,https://twitter.com/share?text=Contacto&#038;url=https%3A%2F%2Falarconpsicologos.com%2Fcontacto%2F",
+        "linkedin": null,
+        "yelp": null,
+        "youtube": null
+      },
+      "google_places": {
+        "place_id": "ChIJ72aLkpP8cQ0Rwim6-KpUIOI",
+        "cid": "-2152627528588973630",
+        "category": "Psicólogo",
+        "review_count": 5,
+        "average_rating": 4.2,
+        "latitude": 37.1661956,
+        "longitude": -3.6029273
+      },
+      "horario": {
+        "lunes": "10:00–13:30, 17:00–21:00",
+        "martes": "10:00–13:30, 17:00–21:00",
+        "miercoles": "10:00–13:30, 17:00–21:00",
+        "jueves": "10:00–13:30, 17:00–21:00",
+        "viernes": "10:00–13:30",
+        "sabado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "_meta": {
+        "slug": "alarcon-psicologos",
+        "municipio": "Granada",
+        "municipio_slug": "granada",
+        "provincia": "Granada",
+        "provincia_slug": "granada",
+        "cp": "18005",
+        "calle": "C. Ribera del Genil, 21, bajo, local 3",
+        "url": "/psicologo/granada/granada/alarcon-psicologos/",
+        "schema_rating": true
+      }
+    }
+  ]
+}

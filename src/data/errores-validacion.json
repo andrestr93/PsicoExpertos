@@ -1,0 +1,80 @@
+{
+  "generado": "2026-06-07T11:11:38.908Z",
+  "erroresLog": [
+    {
+      "index": 0,
+      "name": "Ana Moles Psicologa",
+      "errores": [],
+      "avisos": [
+        "google_places.review_count: solo 2 reseña(s) — Google puede ignorar el schema aggregateRating con menos de 3"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "Cristina Cruz Martín Psicóloga",
+      "errores": [],
+      "avisos": [
+        "phone: ausente — el CTA de llamada no funcionará"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "María Cabuchola",
+      "errores": [],
+      "avisos": [
+        "phone: ausente — el CTA de llamada no funcionará",
+        "google_places.average_rating: valor fuera de rango \"null\""
+      ]
+    },
+    {
+      "index": 39,
+      "name": "Mari Paz Moreno Psicología",
+      "errores": [],
+      "avisos": [
+        "phone: ausente — el CTA de llamada no funcionará"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "Centro de Terapia y Orientación Psicológica",
+      "errores": [],
+      "avisos": [
+        "google_places.review_count: solo 1 reseña(s) — Google puede ignorar el schema aggregateRating con menos de 3"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "PS Centro Sanitario de Psicologia",
+      "errores": [],
+      "avisos": [
+        "google_places.review_count: solo 2 reseña(s) — Google puede ignorar el schema aggregateRating con menos de 3"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "María del Mar López Medina. Psicóloga Clínica.",
+      "errores": [],
+      "avisos": [
+        "google_places.review_count: solo 1 reseña(s) — Google puede ignorar el schema aggregateRating con menos de 3"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "Bienestar Global Psicologa latina en España",
+      "errores": [],
+      "avisos": [
+        "google_places.average_rating: valor fuera de rango \"null\""
+      ]
+    }
+  ],
+  "duplicados": [
+    {
+      "tipo": "teléfono duplicado",
+      "valor": "601 50 96 52",
+      "registros": [
+        "Sanamente Centro de Psicología en Granada",
+        "Psicóloga Granada Lidia Arredondo"
+      ]
+    }
+  ]
+}
