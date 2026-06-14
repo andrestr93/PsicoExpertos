@@ -4,7 +4,34 @@
     "slug": "granada",
     "total": 77,
     "psicologos": 75,
-    "psiquiatras": 1,
-    "municipios": 5
+    "psiquiatras": 0,
+    "municipios": 5,
+    "lista_municipios": [
+      {
+        "slug": "armilla",
+        "nombre": "Armilla",
+        "total": 5
+      },
+      {
+        "slug": "granada",
+        "nombre": "Granada",
+        "total": 68
+      },
+      {
+        "slug": "cullar-vega",
+        "nombre": "Cúllar Vega",
+        "total": 1
+      },
+      {
+        "slug": "churriana-de-la-vega",
+        "nombre": "Churriana de la Vega",
+        "total": 2
+      },
+      {
+        "slug": "hipica",
+        "nombre": "HÍPICA",
+        "total": 1
+      }
+    ]
   }
 ]

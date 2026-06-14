@@ -3,7 +3,19 @@ import Circle from "../icons/Circle.astro";
 import Star from "../icons/Star.astro";
 import ListBadge from "./ListBadge.astro";
 import profesionales from '../data/profesionales-limpio.json'
-const tags = ['Terapia Online' , 'Depresión' , 'Autoestima']
+import type { Profesional } from "../interfaces/professional.interface";
+const profesionalList: Profesional[] = profesionales
+const top5Professional = profesionalList
+  .sort((a, b) => {
+    // Usamos ?? 0 para que si review_count es null, TypeScript lo trate como un 0
+    const reviewsA = a.google_places.review_count ?? 0;
+    const reviewsB = b.google_places.review_count ?? 0;
+
+    // Ordenamos de mayor a menor (descendente)
+    return reviewsB - reviewsA;
+  })
+  .slice(0, 5); // Nos quedamos solo con los 5 primeros del array ordenado
+
 
 
 
@@ -49,7 +61,7 @@ const tags = ['Terapia Online' , 'Depresión' , 'Autoestima']
 -->
 
 <ul>
-  {profesionales.map((professional) => (
+  {top5Professional.map((professional) => (
     <li>
 
 <div class=" bg-white border border-gray-200 shadow-xl shadow-gray-200/5   rounded-3xl py-8 px-10 ml-3 mr-3 mt-5 mb-5 flex flex-col gap-5 ">
@@ -65,16 +77,16 @@ const tags = ['Terapia Online' , 'Depresión' , 'Autoestima']
     <p class=" text-2xl font-semibold">{professional.name}</p>
     <p class=" text-blue-600">Especialista en Ansiedad y estrés</p>
        <div>
- <ListBadge tags={tags}/>
+ <ListBadge tags={professional.tags}/>
     </div>
     <hr/>
     <div class="flex justify-between">
         <div class="flex items-center gap-2">
             <span><Star class="w-5 h-5 text-amber-300"/></span>
-            <span class="font-bold text-xl">4.9 <span class="text-sm font-semibold">(129)</span></span>
+            <span class="font-bold text-xl">{professional.google_places.average_rating} <span class="text-sm font-semibold">({professional.google_places.review_count})</span></span>
 
         </div>
-        <span class="font-bold">60$/sesion</span>
+     
     </div>
 </div>
 

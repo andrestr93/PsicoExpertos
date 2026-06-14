@@ -22,7 +22,13 @@ const hr = () => console.log(`${C.dim}${'─'.repeat(60)}${C.reset}`);
 
 // ─── Mapa de categorías Google → especialidad principal ───────────────────────
 // Prioridad: Psiquiatra > Psicólogo > Psicoterapeuta > resto
-const PRIORIDAD = ['Psiquiatra', 'Psicólogo', 'Psicoterapeuta'];
+const PRIORIDAD = [
+  'Psiquiatra',
+  'Psicólogo',
+  'Psicoterapeuta',
+  'Psicólogo infantil',
+  'Consejero matrimonial',
+];
 
 function normalizarCategoria(raw) {
   if (!raw) return null;
@@ -96,7 +102,16 @@ const corregidos = profesionales.map((p, i) => {
   const cambios = [];
   let pc = { ...p, google_places: { ...p.google_places } };
 
-  // 1 ── CATEGORÍA: múltiples valores → quedarse con la principal
+  const rawCategory = pc.google_places?.category ?? '';
+  pc.tags = rawCategory
+    ? rawCategory
+        .split(';')
+        .map((t) => t.trim())
+        .filter(Boolean)
+    : [];
+
+  // 1 ── CATEGORÍA: Mantenemos la cadena con ";" intacta para procesarla en el script de Astro
+
   if (pc.google_places?.category?.includes(';')) {
     const original = pc.google_places.category;
     const limpia = normalizarCategoria(original);
@@ -152,10 +167,6 @@ console.log(`  Nombres truncados:        ${contadores.nombre}`);
 console.log(`  Ratings null saneados:    ${contadores.rating_null}`);
 console.log(`  Total cambios aplicados:  ${totalFixes}\n`);
 
-// ─── DUPLICADOS: avisar pero NO eliminar automáticamente ─────────────────────
-// El teléfono 601 50 96 52 aparece en dos centros distintos del mismo edificio
-// Sanamente + Lidia Arredondo → mismo número de recepción, son profesionales distintas
-// → Se mantienen ambos registros, el aviso queda en el log
 info('Duplicado de teléfono 601 50 96 52 detectado:');
 info('  Sanamente Centro de Psicología + Psicóloga Granada Lidia Arredondo');
 info('  Mismo edificio, profesionales distintas → se mantienen ambos registros\n');

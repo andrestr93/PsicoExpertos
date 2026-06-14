@@ -33,7 +33,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "ana-moles-psicologa",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "armilla",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Armilla",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Olivo, 4",
+      "cp": "18100",
+      "url": "/psicologo/granada/armilla/ana-moles-psicologa/",
+      "schema_rating": false,
+      "title_seo": "Ana Moles Psicologa — Psicólogo en Armilla (Granada)",
+      "desc_seo": "Psicólogo en Armilla, Granada. Consulta en C. Olivo, 4. Llama al 685 20 65 61."
+    }
   },
   {
     "name": "Ester Maldonado López PSICÓLOGA",
@@ -69,7 +87,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "ester-maldonado-lopez-psicologa",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "armilla",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Armilla",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Lérida, 3, Oficina 5",
+      "cp": "18100",
+      "url": "/psicologo/granada/armilla/ester-maldonado-lopez-psicologa/",
+      "schema_rating": true,
+      "title_seo": "Ester Maldonado López PSICÓLOGA — Psicólogo en Armilla (Granada)",
+      "desc_seo": "Psicólogo en Armilla, Granada. Consulta en C. Lérida, 3, Oficina 5. Llama al 636 34 71 89."
+    }
   },
   {
     "name": "Psicólogos en Granada",
@@ -88,7 +124,7 @@
     "google_places": {
       "place_id": "ChIJd_UA1pP8cQ0RsAkR04A6ubI",
       "cid": "-5568355139295573584",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
       "review_count": 64,
       "average_rating": 4.9,
       "latitude": 37.1731043,
@@ -107,7 +143,27 @@
       "Psicólogo",
       "Psicólogo infantil",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologos-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Psicoterapeuta"
+      ],
+      "calle": "Calle José Recuerda, 4, 1D Despacho B",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/psicologos-en-granada/",
+      "schema_rating": true,
+      "title_seo": "Psicólogos en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Calle José Recuerda, 4, 1D Despacho B. Llama al 634 51 93 11."
+    }
   },
   {
     "name": "Alborán PSICÓLOGOS",
@@ -126,7 +182,7 @@
     "google_places": {
       "place_id": "ChIJ2U-4q5b8cQ0RBMtPDCS95WU",
       "cid": "7342482730020489988",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Servicio de salud mental;Psicoterapeuta",
       "review_count": 153,
       "average_rating": 4.9,
       "latitude": 37.172748,
@@ -146,7 +202,28 @@
       "Psicólogo infantil",
       "Servicio de salud mental",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "alboran-psicologos",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Servicio de salud mental",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Pedro Antonio de Alarcón, 41",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/alboran-psicologos/",
+      "schema_rating": true,
+      "title_seo": "Alborán PSICÓLOGOS — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Pedro Antonio de Alarcón, 41. Llama al 958 87 00 60."
+    }
   },
   {
     "name": "Granada Psicólogos",
@@ -165,7 +242,7 @@
     "google_places": {
       "place_id": "ChIJa1cr8r78cQ0RiMqh9FaMpA8",
       "cid": "1127180111848786568",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
       "review_count": 295,
       "average_rating": 4.9,
       "latitude": 37.1748487,
@@ -184,7 +261,27 @@
       "Psicólogo",
       "Psicólogo infantil",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "granada-psicologos",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Psicoterapeuta"
+      ],
+      "calle": "Reyes Católicos, 20, 3ºB",
+      "cp": "18009",
+      "url": "/psicologo/granada/granada/granada-psicologos/",
+      "schema_rating": true,
+      "title_seo": "Granada Psicólogos — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Reyes Católicos, 20, 3ºB. Llama al 607 45 06 34."
+    }
   },
   {
     "name": "Paula R. Morell Psicología EMDR Granada",
@@ -203,7 +300,7 @@
     "google_places": {
       "place_id": "ChIJA9IzuMT9cQ0RZ6mpGiAg0Ec",
       "cid": "5174671294107068775",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 72,
       "average_rating": 5,
       "latitude": 37.1619754,
@@ -221,7 +318,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "paula-r-morell-psicologia-emdr-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "Av. de Barcelona, 4, local 2",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/paula-r-morell-psicologia-emdr-granada/",
+      "schema_rating": true,
+      "title_seo": "Paula R. Morell Psicología EMDR Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. de Barcelona, 4, local 2. Llama al 669 19 92 93."
+    }
   },
   {
     "name": "Cristina Cruz Martín Psicóloga",
@@ -257,7 +373,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "cristina-cruz-martin-psicologa",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Pl. del Campillo, n° 2, 3°K",
+      "cp": "18009",
+      "url": "/psicologo/granada/granada/cristina-cruz-martin-psicologa/",
+      "schema_rating": true,
+      "title_seo": "Cristina Cruz Martín Psicóloga — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Pl. del Campillo, n° 2, 3°K."
+    }
   },
   {
     "name": "Centro de Psicología Candela Carrillo",
@@ -276,7 +410,7 @@
     "google_places": {
       "place_id": "ChIJQevopxnGVSoREuXZOO7Vz08",
       "cid": "5751050468308149522",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
       "review_count": 45,
       "average_rating": 5,
       "latitude": 37.1630286,
@@ -295,7 +429,27 @@
       "Psicólogo",
       "Psicólogo infantil",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-candela-carrillo",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Psicoterapeuta"
+      ],
+      "calle": "P.º Jardín de la Reina, 10, Local D",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-candela-carrillo/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Candela Carrillo — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en P.º Jardín de la Reina, 10, Local D. Llama al 687 05 25 89."
+    }
   },
   {
     "name": "Clínica Origen Psicología y Psiquiatría",
@@ -314,7 +468,7 @@
     "google_places": {
       "place_id": "ChIJq-Vds4L9cQ0RBlz7qLgLBM0",
       "cid": "-3673798508290548730",
-      "category": "Psiquiatra",
+      "category": "Psicólogo;Clínica psiquiátrica;Psiquiatra;Psicoterapeuta",
       "review_count": 76,
       "average_rating": 4.7,
       "latitude": 37.1712633,
@@ -334,7 +488,28 @@
       "Clínica psiquiátrica",
       "Psiquiatra",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "clinica-origen-psicologia-y-psiquiatria",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Clínica psiquiátrica",
+        "Psiquiatra",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Pedro Antonio de Alarcón, 25",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/clinica-origen-psicologia-y-psiquiatria/",
+      "schema_rating": true,
+      "title_seo": "Clínica Origen Psicología y Psiquiatría — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Pedro Antonio de Alarcón, 25. Llama al 958 08 09 44."
+    }
   },
   {
     "name": "ArmiSalud-Centro de Psicología",
@@ -370,7 +545,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "armisalud-centro-de-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "armilla",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Armilla",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Tres Cruces, 21",
+      "cp": "18100",
+      "url": "/psicologo/granada/armilla/armisalud-centro-de-psicologia/",
+      "schema_rating": true,
+      "title_seo": "ArmiSalud-Centro de Psicología — Psicólogo en Armilla (Granada)",
+      "desc_seo": "Psicólogo en Armilla, Granada. Consulta en C. Tres Cruces, 21. Llama al 640 31 07 86."
+    }
   },
   {
     "name": "Asociación Granada Familia",
@@ -389,7 +582,7 @@
     "google_places": {
       "place_id": "ChIJ729Ns5j8cQ0RIVY55zf6u9E",
       "cid": "-3333795981128280543",
-      "category": "Psicólogo",
+      "category": "Asociación u organización;Consejero familiar;Abogado de Derecho de familia;Psicólogo;Clínica de psicopedagogía",
       "review_count": 38,
       "average_rating": 4.9,
       "latitude": 37.1443965,
@@ -410,7 +603,29 @@
       "Abogado de Derecho de familia",
       "Psicólogo",
       "Clínica de psicopedagogía"
-    ]
+    ],
+    "_meta": {
+      "slug": "asociacion-granada-familia",
+      "especialidad_slug": "especialista",
+      "municipio_slug": "armilla",
+      "provincia_slug": "granada",
+      "especialidad": "Asociación u organización",
+      "municipio": "Armilla",
+      "provincia": "Granada",
+      "tags": [
+        "Asociación u organización",
+        "Consejero familiar",
+        "Abogado de Derecho de familia",
+        "Psicólogo",
+        "Clínica de psicopedagogía"
+      ],
+      "calle": "C. Real de Armilla, 29",
+      "cp": "18100",
+      "url": "/especialista/granada/armilla/asociacion-granada-familia/",
+      "schema_rating": true,
+      "title_seo": "Asociación Granada Familia — Asociación u organización en Armilla (Granada)",
+      "desc_seo": "Asociación u organización en Armilla, Granada. Consulta en C. Real de Armilla, 29. Llama al 958 95 88 55."
+    }
   },
   {
     "name": "Psicóloga Granada Ángela Lara",
@@ -429,7 +644,7 @@
     "google_places": {
       "place_id": "ChIJqyQahoj9cQ0RTema0O-w4pA",
       "cid": "-8006642643467835059",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil",
       "review_count": 6,
       "average_rating": 5,
       "latitude": 37.1594559,
@@ -447,7 +662,26 @@
     "tags": [
       "Psicólogo",
       "Psicólogo infantil"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologa-granada-angela-lara",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil"
+      ],
+      "calle": "Av. Don Bosco, 14",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/psicologa-granada-angela-lara/",
+      "schema_rating": true,
+      "title_seo": "Psicóloga Granada Ángela Lara — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. Don Bosco, 14. Llama al 611 83 63 20."
+    }
   },
   {
     "name": "Psicologa Granada Erika Carrillo",
@@ -483,7 +717,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologa-granada-erika-carrillo",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Cam. de Ronda, 53",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/psicologa-granada-erika-carrillo/",
+      "schema_rating": true,
+      "title_seo": "Psicologa Granada Erika Carrillo — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Cam. de Ronda, 53. Llama al 662 68 61 72."
+    }
   },
   {
     "name": "Ana Antelo | Psicóloga en Granada",
@@ -502,7 +754,7 @@
     "google_places": {
       "place_id": "ChIJVxbgU5H8cQ0RcMy8YfKDmrM",
       "cid": "-5504942517461922704",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil",
       "review_count": 58,
       "average_rating": 5,
       "latitude": 37.1685326,
@@ -520,7 +772,26 @@
     "tags": [
       "Psicólogo",
       "Psicólogo infantil"
-    ]
+    ],
+    "_meta": {
+      "slug": "ana-antelo-psicologa-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil"
+      ],
+      "calle": "C. las Flores, bajo 3",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/ana-antelo-psicologa-en-granada/",
+      "schema_rating": true,
+      "title_seo": "Ana Antelo | Psicóloga en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. las Flores, bajo 3. Llama al 678 26 16 87."
+    }
   },
   {
     "name": "Agora Psicólogas",
@@ -556,7 +827,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "agora-psicologas",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Calle Casillas del Prats Nº 10 D",
+      "cp": "18002",
+      "url": "/psicologo/granada/granada/agora-psicologas/",
+      "schema_rating": true,
+      "title_seo": "Agora Psicólogas — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Calle Casillas del Prats Nº 10 D. Llama al 666 14 09 14."
+    }
   },
   {
     "name": "Mar González Vida. Psicoterapia y Psicopedagogía",
@@ -575,7 +864,7 @@
     "google_places": {
       "place_id": "ChIJA2Wn5Qf9cQ0RjB1KFolyJoU",
       "cid": "-8852262084440089204",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta;Clínica de psicopedagogía",
       "review_count": 80,
       "average_rating": 4.9,
       "latitude": 37.1643762,
@@ -594,7 +883,27 @@
       "Psicólogo",
       "Psicoterapeuta",
       "Clínica de psicopedagogía"
-    ]
+    ],
+    "_meta": {
+      "slug": "mar-gonzalez-vida-psicoterapia-y-psicopedagogia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta",
+        "Clínica de psicopedagogía"
+      ],
+      "calle": "Av. Pablo Picasso, 23",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/mar-gonzalez-vida-psicoterapia-y-psicopedagogia/",
+      "schema_rating": true,
+      "title_seo": "Mar González Vida. Psicoterapia y Psicopedagogía — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. Pablo Picasso, 23. Llama al 653 02 97 66."
+    }
   },
   {
     "name": "Zoraida Rodríguez Centro de Psicología",
@@ -613,7 +922,7 @@
     "google_places": {
       "place_id": "ChIJJQ5iF738cQ0RLVBxSUOvuzI",
       "cid": "3655708226071121965",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
       "review_count": 247,
       "average_rating": 5,
       "latitude": 37.1695422,
@@ -632,7 +941,27 @@
       "Psicólogo",
       "Psicólogo infantil",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "zoraida-rodriguez-centro-de-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. San Antón, 48-50, Entreplanta, oficina 3",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/zoraida-rodriguez-centro-de-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Zoraida Rodríguez Centro de Psicología — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. San Antón, 48-50, Entreplanta, oficina 3. Llama al 676 10 67 82."
+    }
   },
   {
     "name": "Psicólogos SERdeagua",
@@ -651,7 +980,7 @@
     "google_places": {
       "place_id": "ChIJs09h6WGipBIRYjBGYjo2USA",
       "cid": "2328702106712027234",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Asesor educativo;Centro de aprendizaje;Consejero matrimonial;Entrenador personal;Psicoterapeuta;Clínica del sueño;Clínica especializada",
       "review_count": 136,
       "average_rating": 4.9,
       "latitude": 37.1678555,
@@ -676,7 +1005,33 @@
       "Psicoterapeuta",
       "Clínica del sueño",
       "Clínica especializada"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologos-serdeagua",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Asesor educativo",
+        "Centro de aprendizaje",
+        "Consejero matrimonial",
+        "Entrenador personal",
+        "Psicoterapeuta",
+        "Clínica del sueño",
+        "Clínica especializada"
+      ],
+      "calle": "C. San Antón, 72, 5° 11",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/psicologos-serdeagua/",
+      "schema_rating": true,
+      "title_seo": "Psicólogos SERdeagua — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. San Antón, 72, 5° 11. Llama al 640 54 84 51."
+    }
   },
   {
     "name": "GALIM Psicología - Psicólogo en Granada",
@@ -695,7 +1050,7 @@
     "google_places": {
       "place_id": "ChIJKRUXT2f9cQ0RKYPsjtxKrTk",
       "cid": "4156060342283961129",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Consejero matrimonial;Servicio de salud mental;Psicoterapeuta",
       "review_count": 72,
       "average_rating": 5,
       "latitude": 37.1710601,
@@ -715,7 +1070,28 @@
       "Consejero matrimonial",
       "Servicio de salud mental",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "galim-psicologia-psicologo-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Consejero matrimonial",
+        "Servicio de salud mental",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Recogidas, 46, Planta 1. Consulta 13",
+      "cp": "18002",
+      "url": "/psicologo/granada/granada/galim-psicologia-psicologo-en-granada/",
+      "schema_rating": true,
+      "title_seo": "GALIM Psicología - Psicólogo en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Recogidas, 46, Planta 1. Consulta 13. Llama al 609 78 86 63."
+    }
   },
   {
     "name": "Sanamente Centro de Psicología en Granada",
@@ -734,7 +1110,7 @@
     "google_places": {
       "place_id": "ChIJg5gZqW39cQ0R8y6qn9S8N7o",
       "cid": "-5028342837538050317",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
       "review_count": 158,
       "average_rating": 5,
       "latitude": 37.1823824,
@@ -753,7 +1129,27 @@
       "Psicólogo",
       "Psicólogo infantil",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "sanamente-centro-de-psicologia-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Psicoterapeuta"
+      ],
+      "calle": "Calle San Juan de Dios, 49, 3º derecha",
+      "cp": "18001",
+      "url": "/psicologo/granada/granada/sanamente-centro-de-psicologia-en-granada/",
+      "schema_rating": true,
+      "title_seo": "Sanamente Centro de Psicología en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Calle San Juan de Dios, 49, 3º derecha. Llama al 601 50 96 52."
+    }
   },
   {
     "name": "Psicología Miguel Ángel Solier",
@@ -772,7 +1168,7 @@
     "google_places": {
       "place_id": "ChIJv6OVz8T9cQ0R7tHLbnv_D_0",
       "cid": "-211669751858212370",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 37,
       "average_rating": 5,
       "latitude": 37.1608427,
@@ -790,7 +1186,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologia-miguel-angel-solier",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "Av. de América, 22, 1D",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/psicologia-miguel-angel-solier/",
+      "schema_rating": true,
+      "title_seo": "Psicología Miguel Ángel Solier — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. de América, 22, 1D. Llama al 685 17 59 78."
+    }
   },
   {
     "name": "Celia López Psicóloga en Granada",
@@ -809,7 +1224,7 @@
     "google_places": {
       "place_id": "ChIJb50uBHb9cQ0RSLry3_f95-M",
       "cid": "-2024370266423772600",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 22,
       "average_rating": 5,
       "latitude": 37.1610017,
@@ -827,7 +1242,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "celia-lopez-psicologa-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Cerro de los Machos, 3, Centro Aureal",
+      "cp": "18008",
+      "url": "/psicologo/granada/granada/celia-lopez-psicologa-en-granada/",
+      "schema_rating": true,
+      "title_seo": "Celia López Psicóloga en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Cerro de los Machos, 3, Centro Aureal. Llama al 661 84 50 78."
+    }
   },
   {
     "name": "Cima Psicólogos",
@@ -863,7 +1297,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "cima-psicologos",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Despacho 2, Cam. de Ronda, 71, 2º Izq",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/cima-psicologos/",
+      "schema_rating": true,
+      "title_seo": "Cima Psicólogos — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Despacho 2, Cam. de Ronda, 71, 2º Izq. Llama al 647 95 34 67."
+    }
   },
   {
     "name": "Centro de Psicología Mente Positiva Lic.Jessica Galvez",
@@ -882,7 +1334,7 @@
     "google_places": {
       "place_id": "ChIJX8ZNcJ_8cQ0RCSl0m-S0APw",
       "cid": "-288031482198087415",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Centro de salud y bienestar;Psicoterapeuta",
       "review_count": 37,
       "average_rating": 5,
       "latitude": 37.1603254,
@@ -902,7 +1354,28 @@
       "Psicólogo infantil",
       "Centro de salud y bienestar",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-mente-positiva-licjessica-galvez",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Centro de salud y bienestar",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Compositor Luís Mejías, N° 5, Local N°32",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-mente-positiva-licjessica-galvez/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Mente Positiva Lic.Jessica Galvez — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Compositor Luís Mejías, N° 5, Local N°32. Llama al 695 83 11 35."
+    }
   },
   {
     "name": "Psicología sistémica | Medicina Tradicional China | Ana Vico",
@@ -921,7 +1394,7 @@
     "google_places": {
       "place_id": "ChIJB0kidUP9cQ0RaiGVwiCRkO0",
       "cid": "-1328402320184762006",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Especialista en medicina holística",
       "review_count": 36,
       "average_rating": 4.9,
       "latitude": 37.1698744,
@@ -939,7 +1412,26 @@
     "tags": [
       "Psicólogo",
       "Especialista en medicina holística"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologia-sistemica-medicina-tradicional-china-ana-vico",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Especialista en medicina holística"
+      ],
+      "calle": "C. Pedro Antonio de Alarcón, 13",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/psicologia-sistemica-medicina-tradicional-china-ana-vico/",
+      "schema_rating": true,
+      "title_seo": "Psicología sistémica | Medicina Tradicional China | Ana Vico — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Pedro Antonio de Alarcón, 13. Llama al 644 61 60 98."
+    }
   },
   {
     "name": "Psyfeel psicólogos Granada",
@@ -975,7 +1467,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "psyfeel-psicologos-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Av. de la Constitución, 10, 1º A, despacho 1",
+      "cp": "18012",
+      "url": "/psicologo/granada/granada/psyfeel-psicologos-granada/",
+      "schema_rating": true,
+      "title_seo": "Psyfeel psicólogos Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. de la Constitución, 10, 1º A, despacho 1. Llama al 622 78 25 52."
+    }
   },
   {
     "name": "Centro de Psicología Integral Carmen Verdejo",
@@ -1011,7 +1521,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-integral-carmen-verdejo",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Cam. de los Abencerrajes, 17",
+      "cp": "18008",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-integral-carmen-verdejo/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Integral Carmen Verdejo — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Cam. de los Abencerrajes, 17. Llama al 679 42 76 10."
+    }
   },
   {
     "name": "Encarni Cabrera Gabinete Psicología",
@@ -1047,7 +1575,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "encarni-cabrera-gabinete-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Torre de la Cautiva, 15, local B",
+      "cp": "18007",
+      "url": "/psicologo/granada/granada/encarni-cabrera-gabinete-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Encarni Cabrera Gabinete Psicología — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Torre de la Cautiva, 15, local B. Llama al 628 37 29 42."
+    }
   },
   {
     "name": "Psicotea Granada",
@@ -1083,7 +1629,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicotea-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Alminares del Genil, 2, 1ºC",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/psicotea-granada/",
+      "schema_rating": true,
+      "title_seo": "Psicotea Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Alminares del Genil, 2, 1ºC. Llama al 696 95 99 66."
+    }
   },
   {
     "name": "Centro de Atención Psicológica Irene Hidalgo",
@@ -1102,7 +1666,7 @@
     "google_places": {
       "place_id": "ChIJLZy6muj8cQ0RuqHelV8npw4",
       "cid": "1055855929131442618",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Servicio de salud mental;Clínica de psicopedagogía;Psicoterapeuta;Logopeda",
       "review_count": 16,
       "average_rating": 5,
       "latitude": 37.158128,
@@ -1124,7 +1688,30 @@
       "Clínica de psicopedagogía",
       "Psicoterapeuta",
       "Logopeda"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-atencion-psicologica-irene-hidalgo",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Servicio de salud mental",
+        "Clínica de psicopedagogía",
+        "Psicoterapeuta",
+        "Logopeda"
+      ],
+      "calle": "C. Torre del Capitán, 2, local 2",
+      "cp": "18008",
+      "url": "/psicologo/granada/granada/centro-de-atencion-psicologica-irene-hidalgo/",
+      "schema_rating": true,
+      "title_seo": "Centro de Atención Psicológica Irene Hidalgo — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Torre del Capitán, 2, local 2. Llama al 699 50 02 11."
+    }
   },
   {
     "name": "Centro de Psicología Ángela Medina",
@@ -1143,7 +1730,7 @@
     "google_places": {
       "place_id": "ChIJCZE4e939cQ0RoCXKYLZNNC0",
       "cid": "3257313876198958496",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 113,
       "average_rating": 5,
       "latitude": 37.1862377,
@@ -1161,7 +1748,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-angela-medina",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Nécora, 7",
+      "cp": "18003",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-angela-medina/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Ángela Medina — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Nécora, 7. Llama al 661 34 23 31."
+    }
   },
   {
     "name": "Psicólogo en Granada Celabpsi",
@@ -1180,7 +1786,7 @@
     "google_places": {
       "place_id": "ChIJ5X8-9a39cQ0RAWAQmpK99Is",
       "cid": "-8361850170772529151",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
       "review_count": 3,
       "average_rating": 5,
       "latitude": 37.170918,
@@ -1199,7 +1805,27 @@
       "Psicólogo",
       "Psicólogo infantil",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologo-en-granada-celabpsi",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Psicoterapeuta"
+      ],
+      "calle": "Cam. de Ronda, 82, 1ºF",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/psicologo-en-granada-celabpsi/",
+      "schema_rating": true,
+      "title_seo": "Psicólogo en Granada Celabpsi — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Cam. de Ronda, 82, 1ºF. Llama al 622 67 79 97."
+    }
   },
   {
     "name": "María Cabuchola",
@@ -1235,7 +1861,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "maria-cabuchola",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "armilla",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Armilla",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Palencia",
+      "cp": "18100",
+      "url": "/psicologo/granada/armilla/maria-cabuchola/",
+      "schema_rating": false,
+      "title_seo": "María Cabuchola — Psicólogo en Armilla (Granada)",
+      "desc_seo": "Psicólogo en Armilla, Granada. Consulta en C. Palencia."
+    }
   },
   {
     "name": "Psicólogo en Granada - Pedro Núñez Psicología",
@@ -1271,7 +1915,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologo-en-granada-pedro-nunez-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Galileo, 2",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/psicologo-en-granada-pedro-nunez-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Psicólogo en Granada - Pedro Núñez Psicología — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Galileo, 2. Llama al 636 93 74 13."
+    }
   },
   {
     "name": "Raíces y Alas Psicología",
@@ -1290,7 +1952,7 @@
     "google_places": {
       "place_id": "ChIJmdBCpX39cQ0RHtyRL-RtWd8",
       "cid": "-2352728503506314210",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Clínica especializada",
       "review_count": 35,
       "average_rating": 4.9,
       "latitude": 37.167856,
@@ -1308,7 +1970,26 @@
     "tags": [
       "Psicólogo",
       "Clínica especializada"
-    ]
+    ],
+    "_meta": {
+      "slug": "raices-y-alas-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Clínica especializada"
+      ],
+      "calle": "C. San Antón, 72, planta 6, oficina 18",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/raices-y-alas-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Raíces y Alas Psicología — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. San Antón, 72, planta 6, oficina 18. Llama al 689 62 85 60."
+    }
   },
   {
     "name": "Centro de Psicología Aaron Beck",
@@ -1327,7 +2008,7 @@
     "google_places": {
       "place_id": "ChIJI3sJmZP8cQ0RYWiyoajxXbw",
       "cid": "-4873473515175384991",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Escuela de estudios superiores de posgrado;Clínica ambulatoria;Servicio de salud mental;Psicoterapeuta",
       "review_count": 83,
       "average_rating": 4.8,
       "latitude": 37.1750266,
@@ -1349,7 +2030,30 @@
       "Clínica ambulatoria",
       "Servicio de salud mental",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-aaron-beck",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Escuela de estudios superiores de posgrado",
+        "Clínica ambulatoria",
+        "Servicio de salud mental",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Pedro Antonio de Alarcón, 60, 1ºF",
+      "cp": "18002",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-aaron-beck/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Aaron Beck — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Pedro Antonio de Alarcón, 60, 1ºF. Llama al 958 27 08 73."
+    }
   },
   {
     "name": "Clínica de Psicología Myna",
@@ -1385,7 +2089,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "clinica-de-psicologia-myna",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Primavera, 12B, 1º C",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/clinica-de-psicologia-myna/",
+      "schema_rating": true,
+      "title_seo": "Clínica de Psicología Myna — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Primavera, 12B, 1º C. Llama al 601 62 32 60."
+    }
   },
   {
     "name": "Trainerclub - Psicólogos en Granada",
@@ -1404,7 +2126,7 @@
     "google_places": {
       "place_id": "ChIJQ41IAvL9cQ0RAo_XtdQKg0k",
       "cid": "5297089495417982722",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Centro de tratamiento de trastornos alimentarios;Psicoterapeuta",
       "review_count": 33,
       "average_rating": 4.9,
       "latitude": 37.1680866,
@@ -1424,7 +2146,28 @@
       "Psicólogo infantil",
       "Centro de tratamiento de trastornos alimentarios",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "trainerclub-psicologos-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Centro de tratamiento de trastornos alimentarios",
+        "Psicoterapeuta"
+      ],
+      "calle": "C.C. Neptuno, Planta 1, Local 24",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/trainerclub-psicologos-en-granada/",
+      "schema_rating": true,
+      "title_seo": "Trainerclub - Psicólogos en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C.C. Neptuno, Planta 1, Local 24. Llama al 611 15 44 05."
+    }
   },
   {
     "name": "Menttal - Psicólogos y Sexólogos",
@@ -1443,7 +2186,7 @@
     "google_places": {
       "place_id": "ChIJZ3uuGpP8cQ0RrM9e-py1Gj4",
       "cid": "4475088865566052268",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Servicio de hipnoterapia",
       "review_count": 29,
       "average_rating": 5,
       "latitude": 37.176252,
@@ -1461,7 +2204,26 @@
     "tags": [
       "Psicólogo",
       "Servicio de hipnoterapia"
-    ]
+    ],
+    "_meta": {
+      "slug": "menttal-psicologos-y-sexologos",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Servicio de hipnoterapia"
+      ],
+      "calle": "C. Pedro Antonio de Alarcón, 81, 5ºA",
+      "cp": "18003",
+      "url": "/psicologo/granada/granada/menttal-psicologos-y-sexologos/",
+      "schema_rating": true,
+      "title_seo": "Menttal - Psicólogos y Sexólogos — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Pedro Antonio de Alarcón, 81, 5ºA. Llama al 676 71 39 66."
+    }
   },
   {
     "name": "Mari Paz Moreno Psicología",
@@ -1497,7 +2259,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "mari-paz-moreno-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Fontiveros, 46",
+      "cp": "18008",
+      "url": "/psicologo/granada/granada/mari-paz-moreno-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Mari Paz Moreno Psicología — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Fontiveros, 46."
+    }
   },
   {
     "name": "Isabel Fernández Ramírez | Psicóloga en Granada",
@@ -1516,7 +2296,7 @@
     "google_places": {
       "place_id": "ChIJ7f_8nA_9cQ0RTL2G7Vs3lEc",
       "cid": "5157808341212642636",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 114,
       "average_rating": 5,
       "latitude": 37.1725386,
@@ -1534,7 +2314,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "isabel-fernandez-ramirez-psicologa-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "Pl. del Campillo, n2, 6ºI",
+      "cp": "18009",
+      "url": "/psicologo/granada/granada/isabel-fernandez-ramirez-psicologa-en-granada/",
+      "schema_rating": true,
+      "title_seo": "Isabel Fernández Ramírez | Psicóloga en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Pl. del Campillo, n2, 6ºI. Llama al 684 31 80 53."
+    }
   },
   {
     "name": "Paco Ruiz Molina Psicología",
@@ -1570,7 +2369,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "paco-ruiz-molina-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Av. de Barcelona, 22, 7ºA",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/paco-ruiz-molina-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Paco Ruiz Molina Psicología — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. de Barcelona, 22, 7ºA. Llama al 655 04 90 13."
+    }
   },
   {
     "name": "Psicologia Granada - El Àrbol - Salud y Bienestar",
@@ -1589,7 +2406,7 @@
     "google_places": {
       "place_id": "ChIJGy-i_QL9cQ0RgKILq8at6Zw",
       "cid": "-7139984665434414464",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Centro de salud y bienestar",
       "review_count": 30,
       "average_rating": 5,
       "latitude": 37.2026501,
@@ -1607,7 +2424,26 @@
     "tags": [
       "Psicólogo",
       "Centro de salud y bienestar"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologia-granada-el-arbol-salud-y-bienestar",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Centro de salud y bienestar"
+      ],
+      "calle": "C. Gobernador Pedro Temboury, Nº12",
+      "cp": "18013",
+      "url": "/psicologo/granada/granada/psicologia-granada-el-arbol-salud-y-bienestar/",
+      "schema_rating": true,
+      "title_seo": "Psicologia Granada - El Àrbol - Salud y Bienestar — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Gobernador Pedro Temboury, Nº12. Llama al 618 46 94 64."
+    }
   },
   {
     "name": "Centro de Psicología | Ana Piñar",
@@ -1626,7 +2462,7 @@
     "google_places": {
       "place_id": "ChIJJQ5iF738cQ0RbzANbu0mNHg",
       "cid": "8661590784535769199",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Servicio de salud mental",
       "review_count": 35,
       "average_rating": 4.9,
       "latitude": 37.1692215,
@@ -1645,7 +2481,27 @@
       "Psicólogo",
       "Psicólogo infantil",
       "Servicio de salud mental"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-ana-pinar",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Servicio de salud mental"
+      ],
+      "calle": "C. Acera del Darro, 92, 5º E",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-ana-pinar/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología | Ana Piñar — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Acera del Darro, 92, 5º E. Llama al 639 16 08 24."
+    }
   },
   {
     "name": "Centro de Terapia y Orientación Psicológica",
@@ -1664,7 +2520,7 @@
     "google_places": {
       "place_id": "ChIJw40DlKT8cQ0RGJQooTfzquA",
       "cid": "-2257724842920340456",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 1,
       "average_rating": 5,
       "latitude": 37.166284,
@@ -1682,7 +2538,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-terapia-y-orientacion-psicologica",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Sos del Rey Católico, 14",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/centro-de-terapia-y-orientacion-psicologica/",
+      "schema_rating": false,
+      "title_seo": "Centro de Terapia y Orientación Psicológica — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Sos del Rey Católico, 14. Llama al 958 18 30 96."
+    }
   },
   {
     "name": "PS Centro Sanitario de Psicologia",
@@ -1701,7 +2576,7 @@
     "google_places": {
       "place_id": "ChIJv9i7X5_8cQ0RzjocympFqWQ",
       "cid": "7253404999816592078",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Servicio de salud mental;Psicoterapeuta",
       "review_count": 2,
       "average_rating": 5,
       "latitude": 37.1609779,
@@ -1720,7 +2595,27 @@
       "Psicólogo",
       "Servicio de salud mental",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "ps-centro-sanitario-de-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Servicio de salud mental",
+        "Psicoterapeuta"
+      ],
+      "calle": "Av. de Barcelona, 15",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/ps-centro-sanitario-de-psicologia/",
+      "schema_rating": false,
+      "title_seo": "PS Centro Sanitario de Psicologia — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. de Barcelona, 15. Llama al 958 81 85 71."
+    }
   },
   {
     "name": "Psicología Hipnosis",
@@ -1739,7 +2634,7 @@
     "google_places": {
       "place_id": "ChIJAeFSoLz8cQ0RIpESWLPON_k",
       "cid": "-488694764874329822",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Centro de tratamiento de trastornos alimentarios;Servicio de hipnoterapia;Psicoterapeuta",
       "review_count": 79,
       "average_rating": 4.8,
       "latitude": 37.1670022,
@@ -1759,7 +2654,28 @@
       "Centro de tratamiento de trastornos alimentarios",
       "Servicio de hipnoterapia",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologia-hipnosis",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Centro de tratamiento de trastornos alimentarios",
+        "Servicio de hipnoterapia",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Alminares del Genil, 2, Centro",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/psicologia-hipnosis/",
+      "schema_rating": true,
+      "title_seo": "Psicología Hipnosis — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Alminares del Genil, 2, Centro. Llama al 617 96 62 88."
+    }
   },
   {
     "name": "María del Mar López Medina. Psicóloga Clínica.",
@@ -1778,7 +2694,7 @@
     "google_places": {
       "place_id": "ChIJScf5Nun8cQ0R2aGycjuC_M8",
       "cid": "-3459747221888392743",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 1,
       "average_rating": 5,
       "latitude": 37.1757065,
@@ -1796,7 +2712,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "maria-del-mar-lopez-medina-psicologa-clinica",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Alhóndiga, 37, 3º Izda",
+      "cp": "18001",
+      "url": "/psicologo/granada/granada/maria-del-mar-lopez-medina-psicologa-clinica/",
+      "schema_rating": false,
+      "title_seo": "María del Mar López Medina. Psicóloga Clínica. — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Alhóndiga, 37, 3º Izda. Llama al 650 21 92 64."
+    }
   },
   {
     "name": "ISABEL GARCÍA ORTUÑO | PSICÓLOGA CLÍNICA",
@@ -1832,7 +2767,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "isabel-garcia-ortuno-psicologa-clinica",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Gabriel Miró, 3, 2º E",
+      "cp": "18003",
+      "url": "/psicologo/granada/granada/isabel-garcia-ortuno-psicologa-clinica/",
+      "schema_rating": true,
+      "title_seo": "ISABEL GARCÍA ORTUÑO | PSICÓLOGA CLÍNICA — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Gabriel Miró, 3, 2º E. Llama al 652 26 60 27."
+    }
   },
   {
     "name": "Alicia Chica Psicóloga",
@@ -1868,7 +2821,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "alicia-chica-psicologa",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Fontiveros, 46",
+      "cp": "18008",
+      "url": "/psicologo/granada/granada/alicia-chica-psicologa/",
+      "schema_rating": true,
+      "title_seo": "Alicia Chica Psicóloga — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Fontiveros, 46. Llama al 658 10 85 38."
+    }
   },
   {
     "name": "Centro Andaluz de Psicoterapia",
@@ -1887,7 +2858,7 @@
     "google_places": {
       "place_id": "ChIJSdZo16v8cQ0RwtsuWnvvyxI",
       "cid": "1354439426028002242",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 4,
       "average_rating": 5,
       "latitude": 37.1611619,
@@ -1905,7 +2876,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-andaluz-de-psicoterapia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Cerro de los Machos, 2",
+      "cp": "18008",
+      "url": "/psicologo/granada/granada/centro-andaluz-de-psicoterapia/",
+      "schema_rating": true,
+      "title_seo": "Centro Andaluz de Psicoterapia — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Cerro de los Machos, 2. Llama al 958 13 01 05."
+    }
   },
   {
     "name": "Pilar Diaz Gabinete de Psicologia",
@@ -1941,7 +2931,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "pilar-diaz-gabinete-de-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Ribera del Genil, 1, 3º I",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/pilar-diaz-gabinete-de-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Pilar Diaz Gabinete de Psicologia — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Ribera del Genil, 1, 3º I. Llama al 671 96 40 11."
+    }
   },
   {
     "name": "Initia Psicología y Psicoterapia",
@@ -1977,7 +2985,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "initia-psicologia-y-psicoterapia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Arabial, 64",
+      "cp": "18003",
+      "url": "/psicologo/granada/granada/initia-psicologia-y-psicoterapia/",
+      "schema_rating": true,
+      "title_seo": "Initia Psicología y Psicoterapia — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Arabial, 64. Llama al 635 69 52 91."
+    }
   },
   {
     "name": "Psicólogos Granada. Centro en positivo",
@@ -1996,7 +3022,7 @@
     "google_places": {
       "place_id": "ChIJ-0-jGpP8cQ0RGen_1bGe04o",
       "cid": "-8443230389752829671",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Nutricionista",
       "review_count": 85,
       "average_rating": 4.9,
       "latitude": 37.1972603,
@@ -2014,7 +3040,26 @@
     "tags": [
       "Psicólogo",
       "Nutricionista"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologos-granada-centro-en-positivo",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Nutricionista"
+      ],
+      "calle": "C. Gloria Mas, 2, Edificio Oriente, Portal 2, 1ºC",
+      "cp": "18014",
+      "url": "/psicologo/granada/granada/psicologos-granada-centro-en-positivo/",
+      "schema_rating": true,
+      "title_seo": "Psicólogos Granada. Centro en positivo — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Gloria Mas, 2, Edificio Oriente, Portal 2, 1ºC. Llama al 658 76 51 23."
+    }
   },
   {
     "name": "Psicóloga Granada Lidia Arredondo",
@@ -2033,7 +3078,7 @@
     "google_places": {
       "place_id": "ChIJldyomzr9cQ0RISa_7uETalY",
       "cid": "6226811295887205921",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
       "review_count": 90,
       "average_rating": 5,
       "latitude": 37.1823709,
@@ -2052,7 +3097,27 @@
       "Psicólogo",
       "Psicólogo infantil",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologa-granada-lidia-arredondo",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Psicoterapeuta"
+      ],
+      "calle": "Calle San Juan de Dios, 49, 3º derecha",
+      "cp": "18001",
+      "url": "/psicologo/granada/granada/psicologa-granada-lidia-arredondo/",
+      "schema_rating": true,
+      "title_seo": "Psicóloga Granada Lidia Arredondo — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Calle San Juan de Dios, 49, 3º derecha. Llama al 601 50 96 52."
+    }
   },
   {
     "name": "Centro de Psicología Clínica Nicolás Moreno",
@@ -2088,7 +3153,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-clinica-nicolas-moreno",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. José Recuerda, 4, 1 º D",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-clinica-nicolas-moreno/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Clínica Nicolás Moreno — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. José Recuerda, 4, 1 º D. Llama al 958 26 26 26."
+    }
   },
   {
     "name": "Plenum Psicología y Mindfulness",
@@ -2124,7 +3207,25 @@
     },
     "tags": [
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "plenum-psicologia-y-mindfulness",
+      "especialidad_slug": "psicoterapeuta",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicoterapeuta",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicoterapeuta"
+      ],
+      "calle": "Pl. de Carretas, 5, 1ºB",
+      "cp": "18009",
+      "url": "/psicoterapeuta/granada/granada/plenum-psicologia-y-mindfulness/",
+      "schema_rating": true,
+      "title_seo": "Plenum Psicología y Mindfulness — Psicoterapeuta en Granada (Granada)",
+      "desc_seo": "Psicoterapeuta en Granada, Granada. Consulta en Pl. de Carretas, 5, 1ºB. Llama al 611 42 87 20."
+    }
   },
   {
     "name": "PSICOVEGA - Psicóloga en Granada, Cúllar Vega",
@@ -2143,7 +3244,7 @@
     "google_places": {
       "place_id": "ChIJUee4k2f5cQ0RV84uFFQJAkM",
       "cid": "4828432007215107671",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Centro de aprendizaje;Psicoterapeuta",
       "review_count": 40,
       "average_rating": 4.8,
       "latitude": 37.1520044,
@@ -2162,7 +3263,27 @@
       "Psicólogo",
       "Centro de aprendizaje",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicovega-psicologa-en-granada-cullar-vega",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "cullar-vega",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Cúllar Vega",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Centro de aprendizaje",
+        "Psicoterapeuta"
+      ],
+      "calle": "Av. Andalucía, 9, bajo",
+      "cp": "18195",
+      "url": "/psicologo/granada/cullar-vega/psicovega-psicologa-en-granada-cullar-vega/",
+      "schema_rating": true,
+      "title_seo": "PSICOVEGA - Psicóloga en Granada, Cúllar Vega — Psicólogo en Cúllar Vega (Granada)",
+      "desc_seo": "Psicólogo en Cúllar Vega, Granada. Consulta en Av. Andalucía, 9, bajo. Llama al 649 08 82 73."
+    }
   },
   {
     "name": "Alejandra Martín Psicólogo Sanitario, Psicólogo Deportivo, y Psicólogo Forense",
@@ -2181,7 +3302,7 @@
     "google_places": {
       "place_id": "ChIJm3Fjo539cQ0RRc_lO5JbVo8",
       "cid": "-8118200594660470971",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Servicios legales;Psicoterapeuta;Centro de salud y bienestar",
       "review_count": 17,
       "average_rating": 5,
       "latitude": 37.1698609,
@@ -2201,7 +3322,28 @@
       "Servicios legales",
       "Psicoterapeuta",
       "Centro de salud y bienestar"
-    ]
+    ],
+    "_meta": {
+      "slug": "alejandra-martin-psicologo-sanitario-psicologo-deportivo-y-psicologo-forense",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Servicios legales",
+        "Psicoterapeuta",
+        "Centro de salud y bienestar"
+      ],
+      "calle": "C. Verónica de la Virgen, 15",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/alejandra-martin-psicologo-sanitario-psicologo-deportivo-y-psicologo-forense/",
+      "schema_rating": true,
+      "title_seo": "Alejandra Martín Psicólogo Sanitario, Psicólogo Deportivo, y Psicólogo Forense — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Verónica de la Virgen, 15. Llama al 658 08 58 67."
+    }
   },
   {
     "name": "Psicólogos Granada Ronda Salud",
@@ -2220,7 +3362,7 @@
     "google_places": {
       "place_id": "ChIJwzLF7pb8cQ0RLieG9aMiQ-M",
       "cid": "-2070773316066072786",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Médico;Psicoterapeuta",
       "review_count": 23,
       "average_rating": 3.6,
       "latitude": 37.1711957,
@@ -2240,7 +3382,28 @@
       "Psicólogo infantil",
       "Médico",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologos-granada-ronda-salud",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Médico",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Cristo de Medinaceli, 6",
+      "cp": "18002",
+      "url": "/psicologo/granada/granada/psicologos-granada-ronda-salud/",
+      "schema_rating": true,
+      "title_seo": "Psicólogos Granada Ronda Salud — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Cristo de Medinaceli, 6. Llama al 958 08 08 48."
+    }
   },
   {
     "name": "Bienestar Global Psicologa latina en España",
@@ -2276,7 +3439,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "bienestar-global-psicologa-latina-en-espana",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. José Manuel Jiménez Diez",
+      "cp": "18007",
+      "url": "/psicologo/granada/granada/bienestar-global-psicologa-latina-en-espana/",
+      "schema_rating": false,
+      "title_seo": "Bienestar Global Psicologa latina en España — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. José Manuel Jiménez Diez. Llama al 672 55 28 46."
+    }
   },
   {
     "name": "Estar Contigo Terapia - Psicólogos en Granada y Online",
@@ -2312,7 +3493,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "estar-contigo-terapia-psicologos-en-granada-y-online",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Santo Tomás de Villanueva, 3",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/estar-contigo-terapia-psicologos-en-granada-y-online/",
+      "schema_rating": true,
+      "title_seo": "Estar Contigo Terapia - Psicólogos en Granada y Online — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Santo Tomás de Villanueva, 3. Llama al 958 49 10 42."
+    }
   },
   {
     "name": "Caos y Calma Centro de Psicología en Granada - Churriana de la Vega",
@@ -2348,7 +3547,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "caos-y-calma-centro-de-psicologia-en-granada-churriana-de-la-vega",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "churriana-de-la-vega",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Churriana de la Vega",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Ctra. de Alhama, 16",
+      "cp": "18194",
+      "url": "/psicologo/granada/churriana-de-la-vega/caos-y-calma-centro-de-psicologia-en-granada-churriana-de-la-vega/",
+      "schema_rating": true,
+      "title_seo": "Caos y Calma Centro de Psicología en Granada - Churriana de la Vega — Psicólogo en Churriana de la Vega (Granada)",
+      "desc_seo": "Psicólogo en Churriana de la Vega, Granada. Consulta en Ctra. de Alhama, 16. Llama al 641 52 79 28."
+    }
   },
   {
     "name": "Águice Psicología",
@@ -2367,7 +3584,7 @@
     "google_places": {
       "place_id": "ChIJVWdIu8X9cQ0RbRsSSKv-0Ck",
       "cid": "3013188162312870765",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 85,
       "average_rating": 5,
       "latitude": 37.1670022,
@@ -2385,7 +3602,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "aguice-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Alminares del Genil, 2, 1ºC",
+      "cp": "18006",
+      "url": "/psicologo/granada/granada/aguice-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Águice Psicología — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Alminares del Genil, 2, 1ºC. Llama al 628 65 95 42."
+    }
   },
   {
     "name": "Centro de Psicología Psicopaye | Psicóloga en Granada",
@@ -2404,7 +3640,7 @@
     "google_places": {
       "place_id": "ChIJg0ClAmH9cQ0Rl6qhbETjT7U",
       "cid": "-5381833146664637801",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta;Centro de salud y bienestar",
       "review_count": 58,
       "average_rating": 5,
       "latitude": 37.1726483,
@@ -2423,7 +3659,27 @@
       "Psicólogo",
       "Psicoterapeuta",
       "Centro de salud y bienestar"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-psicopaye-psicologa-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta",
+        "Centro de salud y bienestar"
+      ],
+      "calle": "Pl. del Campillo, 2, 1A",
+      "cp": "18009",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-psicopaye-psicologa-en-granada/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Psicopaye | Psicóloga en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Pl. del Campillo, 2, 1A. Llama al 687 18 34 97."
+    }
   },
   {
     "name": "Psicología - Francisco Miguel Justicia León",
@@ -2459,7 +3715,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "psicologia-francisco-miguel-justicia-leon",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Abén Humeya, 21, 1º izquierda",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/psicologia-francisco-miguel-justicia-leon/",
+      "schema_rating": true,
+      "title_seo": "Psicología - Francisco Miguel Justicia León — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Abén Humeya, 21, 1º izquierda. Llama al 615 74 51 27."
+    }
   },
   {
     "name": "Centro Buena Psique",
@@ -2495,7 +3769,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-buena-psique",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "churriana-de-la-vega",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Churriana de la Vega",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Sta. Cecilia, 28",
+      "cp": "18194",
+      "url": "/psicologo/granada/churriana-de-la-vega/centro-buena-psique/",
+      "schema_rating": true,
+      "title_seo": "Centro Buena Psique — Psicólogo en Churriana de la Vega (Granada)",
+      "desc_seo": "Psicólogo en Churriana de la Vega, Granada. Consulta en Sta. Cecilia, 28. Llama al 658 09 34 11."
+    }
   },
   {
     "name": "Antonio Mata Psicología - Psicólogo en Granada - Centro de psicología clínica",
@@ -2531,7 +3823,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "antonio-mata-psicologia-psicologo-en-granada-centro-de-psicologia-clinica",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Cam. de Ronda, 105, 1º A",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/antonio-mata-psicologia-psicologo-en-granada-centro-de-psicologia-clinica/",
+      "schema_rating": true,
+      "title_seo": "Antonio Mata Psicología - Psicólogo en Granada - Centro de psicología clínica — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Cam. de Ronda, 105, 1º A. Llama al 614 32 19 42."
+    }
   },
   {
     "name": "Lirio Psicóloga Profesional Granada",
@@ -2567,7 +3877,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "lirio-psicologa-profesional-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Calle Prof. Agustín Escribano, 18, local 13",
+      "cp": "18004",
+      "url": "/psicologo/granada/granada/lirio-psicologa-profesional-granada/",
+      "schema_rating": true,
+      "title_seo": "Lirio Psicóloga Profesional Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Calle Prof. Agustín Escribano, 18, local 13. Llama al 676 62 37 55."
+    }
   },
   {
     "name": "Faro Psicología - Psicólogo en Granada",
@@ -2586,7 +3914,7 @@
     "google_places": {
       "place_id": "ChIJrWOAkEIfeAgRa9Zww9gI_Ug",
       "cid": "5259369666923517547",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicoterapeuta",
       "review_count": 20,
       "average_rating": 5,
       "latitude": 37.1721482,
@@ -2604,7 +3932,26 @@
     "tags": [
       "Psicólogo",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "faro-psicologia-psicologo-en-granada",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicoterapeuta"
+      ],
+      "calle": "C. Pedro Antonio de Alarcón, 34, Planta 1 - Oficina 2",
+      "cp": "18002",
+      "url": "/psicologo/granada/granada/faro-psicologia-psicologo-en-granada/",
+      "schema_rating": true,
+      "title_seo": "Faro Psicología - Psicólogo en Granada — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Pedro Antonio de Alarcón, 34, Planta 1 - Oficina 2. Llama al 686 81 54 80."
+    }
   },
   {
     "name": "FamiliarMente Psicología y Fisioterapia",
@@ -2623,7 +3970,7 @@
     "google_places": {
       "place_id": "ChIJ__-rXqb8cQ0RAMD68xGIwPc",
       "cid": "-594325540123787264",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Fisioterapeuta",
       "review_count": 161,
       "average_rating": 5,
       "latitude": 37.1611467,
@@ -2641,7 +3988,26 @@
     "tags": [
       "Psicólogo",
       "Fisioterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "familiarmente-psicologia-y-fisioterapia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Fisioterapeuta"
+      ],
+      "calle": "C. Fontiveros, 46",
+      "cp": "18008",
+      "url": "/psicologo/granada/granada/familiarmente-psicologia-y-fisioterapia/",
+      "schema_rating": true,
+      "title_seo": "FamiliarMente Psicología y Fisioterapia — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Fontiveros, 46. Llama al 661 17 70 93."
+    }
   },
   {
     "name": "Centro de Psicología Promethea",
@@ -2677,7 +4043,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-promethea",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Alhóndiga, 27, 3º",
+      "cp": "18001",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-promethea/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Promethea — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Alhóndiga, 27, 3º. Llama al 623 15 82 99."
+    }
   },
   {
     "name": "Positive Mental Training",
@@ -2713,7 +4097,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "positive-mental-training",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Conde Cifuentes, 37",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/positive-mental-training/",
+      "schema_rating": true,
+      "title_seo": "Positive Mental Training — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Conde Cifuentes, 37. Llama al 692 63 70 53."
+    }
   },
   {
     "name": "Clínica de Psicologia y Fisioterapia en Granada Soluciona",
@@ -2732,7 +4134,7 @@
     "google_places": {
       "place_id": "ChIJuUspNKH8cQ0R80OgKC40KCE",
       "cid": "2389216975174779891",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Fisioterapeuta;Clínica de fisioterapia;Psicoterapeuta",
       "review_count": 30,
       "average_rating": 5,
       "latitude": 37.1614659,
@@ -2752,7 +4154,28 @@
       "Fisioterapeuta",
       "Clínica de fisioterapia",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "clinica-de-psicologia-y-fisioterapia-en-granada-soluciona",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "hipica",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "HÍPICA",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Fisioterapeuta",
+        "Clínica de fisioterapia",
+        "Psicoterapeuta"
+      ],
+      "calle": "Camino de la Zubia, 27, 2° C EDIFICIO",
+      "cp": "18006",
+      "url": "/psicologo/granada/hipica/clinica-de-psicologia-y-fisioterapia-en-granada-soluciona/",
+      "schema_rating": true,
+      "title_seo": "Clínica de Psicologia y Fisioterapia en Granada Soluciona — Psicólogo en HÍPICA (Granada)",
+      "desc_seo": "Psicólogo en HÍPICA, Granada. Consulta en Camino de la Zubia, 27, 2° C EDIFICIO. Llama al 629 27 20 92."
+    }
   },
   {
     "name": "Adelante Clinica de Psicología",
@@ -2788,7 +4211,25 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "adelante-clinica-de-psicologia",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "Av. de la Ilustración, 123, 6ºE",
+      "cp": "18016",
+      "url": "/psicologo/granada/granada/adelante-clinica-de-psicologia/",
+      "schema_rating": true,
+      "title_seo": "Adelante Clinica de Psicología — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. de la Ilustración, 123, 6ºE. Llama al 623 00 88 67."
+    }
   },
   {
     "name": "Centro de Psicología Sulayr",
@@ -2807,7 +4248,7 @@
     "google_places": {
       "place_id": "ChIJtbIttuf8cQ0Rj6V7WF87OuA",
       "cid": "-2289452179872045681",
-      "category": "Psicólogo",
+      "category": "Psicólogo;Psicólogo infantil;Servicio de hipnoterapia;Psicoterapeuta",
       "review_count": 85,
       "average_rating": 5,
       "latitude": 37.1903432,
@@ -2827,7 +4268,28 @@
       "Psicólogo infantil",
       "Servicio de hipnoterapia",
       "Psicoterapeuta"
-    ]
+    ],
+    "_meta": {
+      "slug": "centro-de-psicologia-sulayr",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo",
+        "Psicólogo infantil",
+        "Servicio de hipnoterapia",
+        "Psicoterapeuta"
+      ],
+      "calle": "Av. de Pulianas, 26",
+      "cp": "18011",
+      "url": "/psicologo/granada/granada/centro-de-psicologia-sulayr/",
+      "schema_rating": true,
+      "title_seo": "Centro de Psicología Sulayr — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en Av. de Pulianas, 26. Llama al 655 51 16 73."
+    }
   },
   {
     "name": "Alarcón Psicólogos",
@@ -2863,6 +4325,24 @@
     },
     "tags": [
       "Psicólogo"
-    ]
+    ],
+    "_meta": {
+      "slug": "alarcon-psicologos",
+      "especialidad_slug": "psicologo",
+      "municipio_slug": "granada",
+      "provincia_slug": "granada",
+      "especialidad": "Psicólogo",
+      "municipio": "Granada",
+      "provincia": "Granada",
+      "tags": [
+        "Psicólogo"
+      ],
+      "calle": "C. Ribera del Genil, 21, bajo, local 3",
+      "cp": "18005",
+      "url": "/psicologo/granada/granada/alarcon-psicologos/",
+      "schema_rating": true,
+      "title_seo": "Alarcón Psicólogos — Psicólogo en Granada (Granada)",
+      "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Ribera del Genil, 21, bajo, local 3. Llama al 958 25 89 08."
+    }
   }
 ]
