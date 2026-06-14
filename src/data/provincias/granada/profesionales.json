@@ -127,7 +127,7 @@
       "google_places": {
         "place_id": "ChIJd_UA1pP8cQ0RsAkR04A6ubI",
         "cid": "-5568355139295573584",
-        "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 64,
         "average_rating": 4.9,
         "latitude": 37.1731043,
@@ -156,9 +156,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Calle José Recuerda, 4, 1D Despacho B",
         "cp": "18004",
@@ -185,7 +183,7 @@
       "google_places": {
         "place_id": "ChIJ2U-4q5b8cQ0RBMtPDCS95WU",
         "cid": "7342482730020489988",
-        "category": "Psicólogo;Psicólogo infantil;Servicio de salud mental;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 153,
         "average_rating": 4.9,
         "latitude": 37.172748,
@@ -215,10 +213,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Servicio de salud mental",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Pedro Antonio de Alarcón, 41",
         "cp": "18004",
@@ -245,7 +240,7 @@
       "google_places": {
         "place_id": "ChIJa1cr8r78cQ0RiMqh9FaMpA8",
         "cid": "1127180111848786568",
-        "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 295,
         "average_rating": 4.9,
         "latitude": 37.1748487,
@@ -274,9 +269,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Reyes Católicos, 20, 3ºB",
         "cp": "18009",
@@ -303,7 +296,7 @@
       "google_places": {
         "place_id": "ChIJA9IzuMT9cQ0RZ6mpGiAg0Ec",
         "cid": "5174671294107068775",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 72,
         "average_rating": 5,
         "latitude": 37.1619754,
@@ -331,8 +324,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Av. de Barcelona, 4, local 2",
         "cp": "18006",
@@ -413,7 +405,7 @@
       "google_places": {
         "place_id": "ChIJQevopxnGVSoREuXZOO7Vz08",
         "cid": "5751050468308149522",
-        "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 45,
         "average_rating": 5,
         "latitude": 37.1630286,
@@ -442,9 +434,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "P.º Jardín de la Reina, 10, Local D",
         "cp": "18006",
@@ -471,7 +461,7 @@
       "google_places": {
         "place_id": "ChIJq-Vds4L9cQ0RBlz7qLgLBM0",
         "cid": "-3673798508290548730",
-        "category": "Psicólogo;Clínica psiquiátrica;Psiquiatra;Psicoterapeuta",
+        "category": "Psiquiatra",
         "review_count": 76,
         "average_rating": 4.7,
         "latitude": 37.1712633,
@@ -494,24 +484,21 @@
       ],
       "_meta": {
         "slug": "clinica-origen-psicologia-y-psiquiatria",
-        "especialidad_slug": "psicologo",
+        "especialidad_slug": "psiquiatra",
         "municipio_slug": "granada",
         "provincia_slug": "granada",
-        "especialidad": "Psicólogo",
+        "especialidad": "Psiquiatra",
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Clínica psiquiátrica",
-          "Psiquiatra",
-          "Psicoterapeuta"
+          "Psiquiatra"
         ],
         "calle": "C. Pedro Antonio de Alarcón, 25",
         "cp": "18004",
-        "url": "/psicologo/granada/granada/clinica-origen-psicologia-y-psiquiatria/",
+        "url": "/psiquiatra/granada/granada/clinica-origen-psicologia-y-psiquiatria/",
         "schema_rating": true,
-        "title_seo": "Clínica Origen Psicología y Psiquiatría — Psicólogo en Granada (Granada)",
-        "desc_seo": "Psicólogo en Granada, Granada. Consulta en C. Pedro Antonio de Alarcón, 25. Llama al 958 08 09 44."
+        "title_seo": "Clínica Origen Psicología y Psiquiatría — Psiquiatra en Granada (Granada)",
+        "desc_seo": "Psiquiatra en Granada, Granada. Consulta en C. Pedro Antonio de Alarcón, 25. Llama al 958 08 09 44."
       }
     },
     {
@@ -585,7 +572,7 @@
       "google_places": {
         "place_id": "ChIJ729Ns5j8cQ0RIVY55zf6u9E",
         "cid": "-3333795981128280543",
-        "category": "Asociación u organización;Consejero familiar;Abogado de Derecho de familia;Psicólogo;Clínica de psicopedagogía",
+        "category": "Psicólogo",
         "review_count": 38,
         "average_rating": 4.9,
         "latitude": 37.1443965,
@@ -609,25 +596,21 @@
       ],
       "_meta": {
         "slug": "asociacion-granada-familia",
-        "especialidad_slug": "especialista",
+        "especialidad_slug": "psicologo",
         "municipio_slug": "armilla",
         "provincia_slug": "granada",
-        "especialidad": "Asociación u organización",
+        "especialidad": "Psicólogo",
         "municipio": "Armilla",
         "provincia": "Granada",
         "tags": [
-          "Asociación u organización",
-          "Consejero familiar",
-          "Abogado de Derecho de familia",
-          "Psicólogo",
-          "Clínica de psicopedagogía"
+          "Psicólogo"
         ],
         "calle": "C. Real de Armilla, 29",
         "cp": "18100",
-        "url": "/especialista/granada/armilla/asociacion-granada-familia/",
+        "url": "/psicologo/granada/armilla/asociacion-granada-familia/",
         "schema_rating": true,
-        "title_seo": "Asociación Granada Familia — Asociación u organización en Armilla (Granada)",
-        "desc_seo": "Asociación u organización en Armilla, Granada. Consulta en C. Real de Armilla, 29. Llama al 958 95 88 55."
+        "title_seo": "Asociación Granada Familia — Psicólogo en Armilla (Granada)",
+        "desc_seo": "Psicólogo en Armilla, Granada. Consulta en C. Real de Armilla, 29. Llama al 958 95 88 55."
       }
     },
     {
@@ -647,7 +630,7 @@
       "google_places": {
         "place_id": "ChIJqyQahoj9cQ0RTema0O-w4pA",
         "cid": "-8006642643467835059",
-        "category": "Psicólogo;Psicólogo infantil",
+        "category": "Psicólogo",
         "review_count": 6,
         "average_rating": 5,
         "latitude": 37.1594559,
@@ -675,8 +658,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil"
+          "Psicólogo"
         ],
         "calle": "Av. Don Bosco, 14",
         "cp": "18006",
@@ -757,7 +739,7 @@
       "google_places": {
         "place_id": "ChIJVxbgU5H8cQ0RcMy8YfKDmrM",
         "cid": "-5504942517461922704",
-        "category": "Psicólogo;Psicólogo infantil",
+        "category": "Psicólogo",
         "review_count": 58,
         "average_rating": 5,
         "latitude": 37.1685326,
@@ -785,8 +767,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil"
+          "Psicólogo"
         ],
         "calle": "C. las Flores, bajo 3",
         "cp": "18004",
@@ -867,7 +848,7 @@
       "google_places": {
         "place_id": "ChIJA2Wn5Qf9cQ0RjB1KFolyJoU",
         "cid": "-8852262084440089204",
-        "category": "Psicólogo;Psicoterapeuta;Clínica de psicopedagogía",
+        "category": "Psicólogo",
         "review_count": 80,
         "average_rating": 4.9,
         "latitude": 37.1643762,
@@ -896,9 +877,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta",
-          "Clínica de psicopedagogía"
+          "Psicólogo"
         ],
         "calle": "Av. Pablo Picasso, 23",
         "cp": "18006",
@@ -925,7 +904,7 @@
       "google_places": {
         "place_id": "ChIJJQ5iF738cQ0RLVBxSUOvuzI",
         "cid": "3655708226071121965",
-        "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 247,
         "average_rating": 5,
         "latitude": 37.1695422,
@@ -954,9 +933,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. San Antón, 48-50, Entreplanta, oficina 3",
         "cp": "18005",
@@ -983,7 +960,7 @@
       "google_places": {
         "place_id": "ChIJs09h6WGipBIRYjBGYjo2USA",
         "cid": "2328702106712027234",
-        "category": "Psicólogo;Psicólogo infantil;Asesor educativo;Centro de aprendizaje;Consejero matrimonial;Entrenador personal;Psicoterapeuta;Clínica del sueño;Clínica especializada",
+        "category": "Psicólogo",
         "review_count": 136,
         "average_rating": 4.9,
         "latitude": 37.1678555,
@@ -1018,15 +995,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Asesor educativo",
-          "Centro de aprendizaje",
-          "Consejero matrimonial",
-          "Entrenador personal",
-          "Psicoterapeuta",
-          "Clínica del sueño",
-          "Clínica especializada"
+          "Psicólogo"
         ],
         "calle": "C. San Antón, 72, 5° 11",
         "cp": "18005",
@@ -1053,7 +1022,7 @@
       "google_places": {
         "place_id": "ChIJKRUXT2f9cQ0RKYPsjtxKrTk",
         "cid": "4156060342283961129",
-        "category": "Psicólogo;Consejero matrimonial;Servicio de salud mental;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 72,
         "average_rating": 5,
         "latitude": 37.1710601,
@@ -1083,10 +1052,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Consejero matrimonial",
-          "Servicio de salud mental",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Recogidas, 46, Planta 1. Consulta 13",
         "cp": "18002",
@@ -1113,7 +1079,7 @@
       "google_places": {
         "place_id": "ChIJg5gZqW39cQ0R8y6qn9S8N7o",
         "cid": "-5028342837538050317",
-        "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 158,
         "average_rating": 5,
         "latitude": 37.1823824,
@@ -1142,9 +1108,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Calle San Juan de Dios, 49, 3º derecha",
         "cp": "18001",
@@ -1171,7 +1135,7 @@
       "google_places": {
         "place_id": "ChIJv6OVz8T9cQ0R7tHLbnv_D_0",
         "cid": "-211669751858212370",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 37,
         "average_rating": 5,
         "latitude": 37.1608427,
@@ -1199,8 +1163,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Av. de América, 22, 1D",
         "cp": "18006",
@@ -1227,7 +1190,7 @@
       "google_places": {
         "place_id": "ChIJb50uBHb9cQ0RSLry3_f95-M",
         "cid": "-2024370266423772600",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 22,
         "average_rating": 5,
         "latitude": 37.1610017,
@@ -1255,8 +1218,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Cerro de los Machos, 3, Centro Aureal",
         "cp": "18008",
@@ -1337,7 +1299,7 @@
       "google_places": {
         "place_id": "ChIJX8ZNcJ_8cQ0RCSl0m-S0APw",
         "cid": "-288031482198087415",
-        "category": "Psicólogo;Psicólogo infantil;Centro de salud y bienestar;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 37,
         "average_rating": 5,
         "latitude": 37.1603254,
@@ -1367,10 +1329,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Centro de salud y bienestar",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Compositor Luís Mejías, N° 5, Local N°32",
         "cp": "18006",
@@ -1397,7 +1356,7 @@
       "google_places": {
         "place_id": "ChIJB0kidUP9cQ0RaiGVwiCRkO0",
         "cid": "-1328402320184762006",
-        "category": "Psicólogo;Especialista en medicina holística",
+        "category": "Psicólogo",
         "review_count": 36,
         "average_rating": 4.9,
         "latitude": 37.1698744,
@@ -1425,8 +1384,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Especialista en medicina holística"
+          "Psicólogo"
         ],
         "calle": "C. Pedro Antonio de Alarcón, 13",
         "cp": "18005",
@@ -1669,7 +1627,7 @@
       "google_places": {
         "place_id": "ChIJLZy6muj8cQ0RuqHelV8npw4",
         "cid": "1055855929131442618",
-        "category": "Psicólogo;Psicólogo infantil;Servicio de salud mental;Clínica de psicopedagogía;Psicoterapeuta;Logopeda",
+        "category": "Psicólogo",
         "review_count": 16,
         "average_rating": 5,
         "latitude": 37.158128,
@@ -1701,12 +1659,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Servicio de salud mental",
-          "Clínica de psicopedagogía",
-          "Psicoterapeuta",
-          "Logopeda"
+          "Psicólogo"
         ],
         "calle": "C. Torre del Capitán, 2, local 2",
         "cp": "18008",
@@ -1733,7 +1686,7 @@
       "google_places": {
         "place_id": "ChIJCZE4e939cQ0RoCXKYLZNNC0",
         "cid": "3257313876198958496",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 113,
         "average_rating": 5,
         "latitude": 37.1862377,
@@ -1761,8 +1714,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Nécora, 7",
         "cp": "18003",
@@ -1789,7 +1741,7 @@
       "google_places": {
         "place_id": "ChIJ5X8-9a39cQ0RAWAQmpK99Is",
         "cid": "-8361850170772529151",
-        "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 3,
         "average_rating": 5,
         "latitude": 37.170918,
@@ -1818,9 +1770,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Cam. de Ronda, 82, 1ºF",
         "cp": "18004",
@@ -1955,7 +1905,7 @@
       "google_places": {
         "place_id": "ChIJmdBCpX39cQ0RHtyRL-RtWd8",
         "cid": "-2352728503506314210",
-        "category": "Psicólogo;Clínica especializada",
+        "category": "Psicólogo",
         "review_count": 35,
         "average_rating": 4.9,
         "latitude": 37.167856,
@@ -1983,8 +1933,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Clínica especializada"
+          "Psicólogo"
         ],
         "calle": "C. San Antón, 72, planta 6, oficina 18",
         "cp": "18005",
@@ -2011,7 +1960,7 @@
       "google_places": {
         "place_id": "ChIJI3sJmZP8cQ0RYWiyoajxXbw",
         "cid": "-4873473515175384991",
-        "category": "Psicólogo;Psicólogo infantil;Escuela de estudios superiores de posgrado;Clínica ambulatoria;Servicio de salud mental;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 83,
         "average_rating": 4.8,
         "latitude": 37.1750266,
@@ -2043,12 +1992,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Escuela de estudios superiores de posgrado",
-          "Clínica ambulatoria",
-          "Servicio de salud mental",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Pedro Antonio de Alarcón, 60, 1ºF",
         "cp": "18002",
@@ -2129,7 +2073,7 @@
       "google_places": {
         "place_id": "ChIJQ41IAvL9cQ0RAo_XtdQKg0k",
         "cid": "5297089495417982722",
-        "category": "Psicólogo;Psicólogo infantil;Centro de tratamiento de trastornos alimentarios;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 33,
         "average_rating": 4.9,
         "latitude": 37.1680866,
@@ -2159,10 +2103,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Centro de tratamiento de trastornos alimentarios",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C.C. Neptuno, Planta 1, Local 24",
         "cp": "18004",
@@ -2189,7 +2130,7 @@
       "google_places": {
         "place_id": "ChIJZ3uuGpP8cQ0RrM9e-py1Gj4",
         "cid": "4475088865566052268",
-        "category": "Psicólogo;Servicio de hipnoterapia",
+        "category": "Psicólogo",
         "review_count": 29,
         "average_rating": 5,
         "latitude": 37.176252,
@@ -2217,8 +2158,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Servicio de hipnoterapia"
+          "Psicólogo"
         ],
         "calle": "C. Pedro Antonio de Alarcón, 81, 5ºA",
         "cp": "18003",
@@ -2299,7 +2239,7 @@
       "google_places": {
         "place_id": "ChIJ7f_8nA_9cQ0RTL2G7Vs3lEc",
         "cid": "5157808341212642636",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 114,
         "average_rating": 5,
         "latitude": 37.1725386,
@@ -2327,8 +2267,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Pl. del Campillo, n2, 6ºI",
         "cp": "18009",
@@ -2409,7 +2348,7 @@
       "google_places": {
         "place_id": "ChIJGy-i_QL9cQ0RgKILq8at6Zw",
         "cid": "-7139984665434414464",
-        "category": "Psicólogo;Centro de salud y bienestar",
+        "category": "Psicólogo",
         "review_count": 30,
         "average_rating": 5,
         "latitude": 37.2026501,
@@ -2437,8 +2376,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Centro de salud y bienestar"
+          "Psicólogo"
         ],
         "calle": "C. Gobernador Pedro Temboury, Nº12",
         "cp": "18013",
@@ -2465,7 +2403,7 @@
       "google_places": {
         "place_id": "ChIJJQ5iF738cQ0RbzANbu0mNHg",
         "cid": "8661590784535769199",
-        "category": "Psicólogo;Psicólogo infantil;Servicio de salud mental",
+        "category": "Psicólogo",
         "review_count": 35,
         "average_rating": 4.9,
         "latitude": 37.1692215,
@@ -2494,9 +2432,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Servicio de salud mental"
+          "Psicólogo"
         ],
         "calle": "C. Acera del Darro, 92, 5º E",
         "cp": "18005",
@@ -2523,7 +2459,7 @@
       "google_places": {
         "place_id": "ChIJw40DlKT8cQ0RGJQooTfzquA",
         "cid": "-2257724842920340456",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 1,
         "average_rating": 5,
         "latitude": 37.166284,
@@ -2551,8 +2487,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Sos del Rey Católico, 14",
         "cp": "18006",
@@ -2579,7 +2514,7 @@
       "google_places": {
         "place_id": "ChIJv9i7X5_8cQ0RzjocympFqWQ",
         "cid": "7253404999816592078",
-        "category": "Psicólogo;Servicio de salud mental;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 2,
         "average_rating": 5,
         "latitude": 37.1609779,
@@ -2608,9 +2543,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Servicio de salud mental",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Av. de Barcelona, 15",
         "cp": "18006",
@@ -2637,7 +2570,7 @@
       "google_places": {
         "place_id": "ChIJAeFSoLz8cQ0RIpESWLPON_k",
         "cid": "-488694764874329822",
-        "category": "Psicólogo;Centro de tratamiento de trastornos alimentarios;Servicio de hipnoterapia;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 79,
         "average_rating": 4.8,
         "latitude": 37.1670022,
@@ -2667,10 +2600,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Centro de tratamiento de trastornos alimentarios",
-          "Servicio de hipnoterapia",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Alminares del Genil, 2, Centro",
         "cp": "18006",
@@ -2697,7 +2627,7 @@
       "google_places": {
         "place_id": "ChIJScf5Nun8cQ0R2aGycjuC_M8",
         "cid": "-3459747221888392743",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 1,
         "average_rating": 5,
         "latitude": 37.1757065,
@@ -2725,8 +2655,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Alhóndiga, 37, 3º Izda",
         "cp": "18001",
@@ -2861,7 +2790,7 @@
       "google_places": {
         "place_id": "ChIJSdZo16v8cQ0RwtsuWnvvyxI",
         "cid": "1354439426028002242",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 4,
         "average_rating": 5,
         "latitude": 37.1611619,
@@ -2889,8 +2818,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Cerro de los Machos, 2",
         "cp": "18008",
@@ -3025,7 +2953,7 @@
       "google_places": {
         "place_id": "ChIJ-0-jGpP8cQ0RGen_1bGe04o",
         "cid": "-8443230389752829671",
-        "category": "Psicólogo;Nutricionista",
+        "category": "Psicólogo",
         "review_count": 85,
         "average_rating": 4.9,
         "latitude": 37.1972603,
@@ -3053,8 +2981,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Nutricionista"
+          "Psicólogo"
         ],
         "calle": "C. Gloria Mas, 2, Edificio Oriente, Portal 2, 1ºC",
         "cp": "18014",
@@ -3081,7 +3008,7 @@
       "google_places": {
         "place_id": "ChIJldyomzr9cQ0RISa_7uETalY",
         "cid": "6226811295887205921",
-        "category": "Psicólogo;Psicólogo infantil;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 90,
         "average_rating": 5,
         "latitude": 37.1823709,
@@ -3110,9 +3037,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Calle San Juan de Dios, 49, 3º derecha",
         "cp": "18001",
@@ -3247,7 +3172,7 @@
       "google_places": {
         "place_id": "ChIJUee4k2f5cQ0RV84uFFQJAkM",
         "cid": "4828432007215107671",
-        "category": "Psicólogo;Centro de aprendizaje;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 40,
         "average_rating": 4.8,
         "latitude": 37.1520044,
@@ -3276,9 +3201,7 @@
         "municipio": "Cúllar Vega",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Centro de aprendizaje",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Av. Andalucía, 9, bajo",
         "cp": "18195",
@@ -3305,7 +3228,7 @@
       "google_places": {
         "place_id": "ChIJm3Fjo539cQ0RRc_lO5JbVo8",
         "cid": "-8118200594660470971",
-        "category": "Psicólogo;Servicios legales;Psicoterapeuta;Centro de salud y bienestar",
+        "category": "Psicólogo",
         "review_count": 17,
         "average_rating": 5,
         "latitude": 37.1698609,
@@ -3335,10 +3258,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Servicios legales",
-          "Psicoterapeuta",
-          "Centro de salud y bienestar"
+          "Psicólogo"
         ],
         "calle": "C. Verónica de la Virgen, 15",
         "cp": "18005",
@@ -3365,7 +3285,7 @@
       "google_places": {
         "place_id": "ChIJwzLF7pb8cQ0RLieG9aMiQ-M",
         "cid": "-2070773316066072786",
-        "category": "Psicólogo;Psicólogo infantil;Médico;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 23,
         "average_rating": 3.6,
         "latitude": 37.1711957,
@@ -3395,10 +3315,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Médico",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Cristo de Medinaceli, 6",
         "cp": "18002",
@@ -3587,7 +3504,7 @@
       "google_places": {
         "place_id": "ChIJVWdIu8X9cQ0RbRsSSKv-0Ck",
         "cid": "3013188162312870765",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 85,
         "average_rating": 5,
         "latitude": 37.1670022,
@@ -3615,8 +3532,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Alminares del Genil, 2, 1ºC",
         "cp": "18006",
@@ -3643,7 +3559,7 @@
       "google_places": {
         "place_id": "ChIJg0ClAmH9cQ0Rl6qhbETjT7U",
         "cid": "-5381833146664637801",
-        "category": "Psicólogo;Psicoterapeuta;Centro de salud y bienestar",
+        "category": "Psicólogo",
         "review_count": 58,
         "average_rating": 5,
         "latitude": 37.1726483,
@@ -3672,9 +3588,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta",
-          "Centro de salud y bienestar"
+          "Psicólogo"
         ],
         "calle": "Pl. del Campillo, 2, 1A",
         "cp": "18009",
@@ -3917,7 +3831,7 @@
       "google_places": {
         "place_id": "ChIJrWOAkEIfeAgRa9Zww9gI_Ug",
         "cid": "5259369666923517547",
-        "category": "Psicólogo;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 20,
         "average_rating": 5,
         "latitude": 37.1721482,
@@ -3945,8 +3859,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Pedro Antonio de Alarcón, 34, Planta 1 - Oficina 2",
         "cp": "18002",
@@ -3973,7 +3886,7 @@
       "google_places": {
         "place_id": "ChIJ__-rXqb8cQ0RAMD68xGIwPc",
         "cid": "-594325540123787264",
-        "category": "Psicólogo;Fisioterapeuta",
+        "category": "Psicólogo",
         "review_count": 161,
         "average_rating": 5,
         "latitude": 37.1611467,
@@ -4001,8 +3914,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Fisioterapeuta"
+          "Psicólogo"
         ],
         "calle": "C. Fontiveros, 46",
         "cp": "18008",
@@ -4137,7 +4049,7 @@
       "google_places": {
         "place_id": "ChIJuUspNKH8cQ0R80OgKC40KCE",
         "cid": "2389216975174779891",
-        "category": "Psicólogo;Fisioterapeuta;Clínica de fisioterapia;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 30,
         "average_rating": 5,
         "latitude": 37.1614659,
@@ -4167,10 +4079,7 @@
         "municipio": "HÍPICA",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Fisioterapeuta",
-          "Clínica de fisioterapia",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Camino de la Zubia, 27, 2° C EDIFICIO",
         "cp": "18006",
@@ -4251,7 +4160,7 @@
       "google_places": {
         "place_id": "ChIJtbIttuf8cQ0Rj6V7WF87OuA",
         "cid": "-2289452179872045681",
-        "category": "Psicólogo;Psicólogo infantil;Servicio de hipnoterapia;Psicoterapeuta",
+        "category": "Psicólogo",
         "review_count": 85,
         "average_rating": 5,
         "latitude": 37.1903432,
@@ -4281,10 +4190,7 @@
         "municipio": "Granada",
         "provincia": "Granada",
         "tags": [
-          "Psicólogo",
-          "Psicólogo infantil",
-          "Servicio de hipnoterapia",
-          "Psicoterapeuta"
+          "Psicólogo"
         ],
         "calle": "Av. de Pulianas, 26",
         "cp": "18011",

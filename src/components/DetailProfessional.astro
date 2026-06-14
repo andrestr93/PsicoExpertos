@@ -1,0 +1,64 @@
+---
+import EmptyStart from "../icons/EmptyStart.astro";
+import Star from "../icons/Star.astro";
+import type { Profesional } from "../interfaces/professional.interface";
+import MainLayout from "../Layouts/MainLayout.astro";
+import ListBadge from "./ListBadge.astro";
+
+interface Props {
+
+    professional: Profesional
+}
+
+
+const {professional} = Astro.props
+
+const fullStars = Math.round(professional.google_places.average_rating || 0) 
+const emptyStars = 5 - fullStars
+
+
+---
+
+<MainLayout>
+
+    <section>
+        <div>
+            <h1>{professional.name}</h1>
+    
+            <ListBadge tags={professional.tags}/>
+
+            <div>
+               {
+                Array.from({length: fullStars}).map(() => {
+
+                    <Star/>
+
+                })
+
+                }
+               {
+                Array.from({length: emptyStars}).map(() => {
+
+                    <EmptyStart/>
+
+                })
+
+                }
+               
+            </div>
+
+            <Star/>
+        
+            <div>
+                <span>{professional.google_places.average_rating} ({professional.google_places.review_count})</span>
+
+            </div>
+
+
+        </div>
+
+    </section>
+
+
+
+</MainLayout>

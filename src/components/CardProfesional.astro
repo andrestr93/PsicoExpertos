@@ -4,6 +4,7 @@ import Star from "../icons/Star.astro";
 import ListBadge from "./ListBadge.astro";
 import profesionales from '../data/profesionales-limpio.json'
 import type { Profesional } from "../interfaces/professional.interface";
+import { isOpen } from "../utils/functions/getSchedule.function";
 const profesionalList: Profesional[] = profesionales
 const top5Professional = profesionalList
   .sort((a, b) => {
@@ -65,15 +66,30 @@ const top5Professional = profesionalList
     <li>
 
 <div class=" bg-white border border-gray-200 shadow-xl shadow-gray-200/5   rounded-3xl py-8 px-10 ml-3 mr-3 mt-5 mb-5 flex flex-col gap-5 ">
-    <div class="ml-auto bg-green-100 py-2 px-4 rounded-2xl flex gap-1 items-center">
-        <span><Circle class="w-3 h-3 text-green-400"/></span>
-        <span class=" text-xs font-semibold">Disponible hoy</span>
-
-    </div>
+<div class:list={[
+  "ml-auto py-2 px-4 rounded-2xl flex gap-1 items-center", 
+  {
+    "bg-green-100": isOpen(professional.horario), 
+    "bg-red-100": !isOpen(professional.horario) 
+  }
+]}>
+  {isOpen(professional.horario) ? (
+    <>
+      <span><Circle class="w-3 h-3 text-green-200"/></span>
+      <span class="text-xs font-semibold">Disponible</span>
+    </>
+  ) : (
+    <>
+      <span><Circle class="w-3 h-3 text-red-400"/></span>
+      <span class="text-xs font-semibold">No Disponible</span>
+    </>
+  )}
+</div>
 
     <div>
 
     </div>
+    
     <p class=" text-2xl font-semibold">{professional.name}</p>
     <p class=" text-blue-600">Especialista en Ansiedad y estrés</p>
        <div>
