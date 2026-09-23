@@ -6,8 +6,8 @@
     "node": ">=22.12.0"
   },
   "scripts": {
-    "dev": "npm run data && npm run correction && astro dev",
-    "build": "npm run data && npm run correction && astro build",
+    "dev": "pnpm run data && npm run correction && astro dev",
+    "build": "pnpm run data && npm run correction && astro build",
     "preview": "astro preview",
     "correction": "node src/scripts/correction-data.mjs",
     "process": "node src/scripts/process-data.mjs",
@@ -17,7 +17,7 @@
   "dependencies": {
     "@fontsource-variable/inter": "^5.2.8",
     "@tailwindcss/vite": "^4.3.0",
-    "astro": "^7.2.2",
+    "astro": "^7.3.4",
     "tailwindcss": "^4.3.0"
   }
 }
